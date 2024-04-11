@@ -1,0 +1,3572 @@
+﻿TY  - JOUR
+AD  - B.R. Lang
+AU  - Lang, B. R.
+AU  - Kipfmueller, L. J.
+DB  - Medline
+IS  - 5
+KW  - adolescent
+adult
+analysis of variance
+article
+breathing
+female
+human
+male
+nasopharynx
+pharynx disease
+speech disorder
+tooth prosthesis
+L1  - internal-pdf://1343606042/Lang-1969-Treating velopharyngeal inadequacy w.pdf
+LA  - English
+M3  - Article
+N1  - L89133208
+1969-06-18
+PY  - 1969
+SN  - 0032-1052
+SP  - 467-477
+ST  - Treating velopharyngeal inadequacy with the palatal lift concept
+T2  - Plastic and reconstructive surgery
+TI  - Treating velopharyngeal inadequacy with the palatal lift concept
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L89133208&from=export
+VL  - 43
+ID  - 1524
+ER  - 
+
+TY  - JOUR
+AN  - 4915205
+AU  - Aramany, M. A.
+AU  - Matalon, V.
+DA  - Sep
+DO  - 10.1016/0022-3913(70)90027-2
+DP  - NLM
+IS  - 3
+KW  - Aged
+Cleft Palate/classification
+Dental Impression Technique
+Female
+Humans
+Palatal Neoplasms/*surgery
+*Palatal Obturators
+L1  - internal-pdf://0697517721/Aramany-1970-Prosthetic management of postsurg.pdf
+LA  - eng
+N1  - Aramany, M A
+Matalon, V
+Case Reports
+Journal Article
+United States
+1970/09/01
+J Prosthet Dent. 1970 Sep;24(3):304-11. doi: 10.1016/0022-3913(70)90027-2.
+PY  - 1970
+SN  - 0022-3913 (Print)
+0022-3913
+SP  - 304-11
+ST  - Prosthetic management of postsurgical soft palate defects
+T2  - J Prosthet Dent
+TI  - Prosthetic management of postsurgical soft palate defects
+VL  - 24
+ID  - 1846
+ER  - 
+
+TY  - JOUR
+AB  - Thirty-nine children with moderate-to-severe velopharyngeal incompetency were randomly assigned to either prosthetic or surgical palatal management. A classification for evaluating velopharyngeal incompetency was designed. The prosthetic speech appliance, when obtained and tolerated, corrected velopharyngeal incompetency as effectively as did pharyngeal flap surgery. However, the noncompliance and failure rate for prosthetic management was 35 percent. The surgical failure rate was 9 percent. Furthermore, 33 percent of patients who received prosthetic management have subsequently undergone pharyngeal flap surgery. The equivalency of these types of palatal management lead one to question the combination of the noncompliance and failure rate for prostheses, the incidence of secondary surgical conversions, and the persistent sense of deformity with prosthetic management.
+AN  - 7367500
+AU  - Marsh, J. L.
+AU  - Wray, R. C.
+DA  - May
+DO  - 10.1097/00006534-198005000-00009
+DP  - NLM
+IS  - 5
+KW  - Adolescent
+Child
+Child, Preschool
+Follow-Up Studies
+Humans
+*Palatal Obturators
+Palate, Soft/*surgery
+Patient Compliance
+Pharynx/*surgery
+Speech Disorders/etiology/*therapy
+Speech Therapy
+Surgical Flaps
+Velopharyngeal Insufficiency/complications/surgery/*therapy
+L1  - internal-pdf://4056002456/Marsh-1980-Speech prosthesis versus pharyngeal.pdf
+LA  - eng
+N1  - Marsh, J L
+Wray, R C
+Journal Article
+United States
+1980/05/01
+Plast Reconstr Surg. 1980 May;65(5):592-4. doi: 10.1097/00006534-198005000-00009.
+PY  - 1980
+SN  - 0032-1052 (Print)
+0032-1052
+SP  - 592-4
+ST  - Speech prosthesis versus pharyngeal flap: a randomized evaluation of the management of velopharyngeal incompetency
+T2  - Plast Reconstr Surg
+TI  - Speech prosthesis versus pharyngeal flap: a randomized evaluation of the management of velopharyngeal incompetency
+VL  - 65
+ID  - 1610
+ER  - 
+
+TY  - JOUR
+AB  - To evaluate speech following prosthetic obturation of surgically acquired maxillary defects, the speech intelligibility of eight patients was measured preoperatively and postoperatively, with and without prostheses. Oro-nasal separation and velopharyngeal function were also evaluated by use of a specially designed spirometer and endoscope. Following placement of maxillary obturator prostheses, four patients achieved dramatic improvement in speech intelligibility, while four patients did not. In the latter, insufficient improvement in speech intelligibility was attributed to velopharyngeal incompetence or unstable prosthesis. Two of three patients with velopharyngeal incompetence did achieve adequate improvement in speech following placement of a speech appliance in combination with maxillary obturator prostheses.
+AD  - First Department of Oral and Maxillofacial Surgery, School of Dentistry, Showa University, Tokyo, Japan.
+AN  - 2283551
+AU  - Yoshida, H.
+AU  - Michi, K.
+AU  - Ohsawa, T.
+DA  - Nov
+DO  - 10.1111/j.1365-2842.1990.tb01427.x
+DP  - NLM
+IS  - 6
+KW  - Adult
+Aged
+Aged, 80 and over
+Endoscopy
+Female
+Humans
+Male
+Maxilla/*surgery
+Maxillary Diseases/surgery
+Middle Aged
+Mouth/physiopathology
+Nose/physiopathology
+*Palatal Obturators
+Palate, Soft/physiopathology
+Pharynx/physiopathology
+Prosthesis Design
+Pulmonary Ventilation/physiology
+Speech Disorders/etiology/*therapy
+Speech Intelligibility
+Spirometry
+L1  - internal-pdf://1285228804/Yoshida-1990-Prosthetic treatment for speech d.pdf
+LA  - eng
+N1  - Yoshida, H
+Michi, K
+Ohsawa, T
+Journal Article
+England
+1990/11/01
+J Oral Rehabil. 1990 Nov;17(6):565-71. doi: 10.1111/j.1365-2842.1990.tb01427.x.
+PY  - 1990
+SN  - 0305-182X (Print)
+0305-182x
+SP  - 565-71
+ST  - Prosthetic treatment for speech disorders due to surgically acquired maxillary defects
+T2  - J Oral Rehabil
+TI  - Prosthetic treatment for speech disorders due to surgically acquired maxillary defects
+UR  - https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2842.1990.tb01427.x
+VL  - 17
+ID  - 1753
+ER  - 
+
+TY  - JOUR
+AB  - This retrospective study describes the frequency of one team's acceptance of speech pathologists' recommendations for specific secondary treatment procedures for the correction of VPI for 100 consecutive patients. In addition, assessment was made of the level of success in eliminating VPI relative to treatments utilized that were recommended by speech pathologists versus level of success when treatment other than that recommended by speech pathologists were used. For the 78 patients who received the treatment procedure recommended by speech pathologists, only 10 percent continued to demonstrate any clinically significant residual speech problem associated with VPI. However, for the 22 patients who received treatment other than that which had been recommended, 32 percent continued to demonstrate clinically significant speech problems associated with VPI. Data is presented on the success rate for correcting VPI relative to specific treatment recommendations including pharyngeal flap, palatal pushback, pharyngeal wall implant, tonsillectomy, prosthetic palatal lifts, and speech therapy.
+AD  - Department of Pediatrics, College of Medicine, University of Florida, Gainesville.
+AN  - 1911817
+AU  - Dixon-Wood, V. L.
+AU  - Williams, W. N.
+AU  - Seagle, M. B.
+DA  - Jul
+DO  - 10.1597/1545-1569_1991_028_0285_taosrf_2.3.co_2
+DP  - NLM
+IS  - 3
+KW  - *Clinical Protocols
+Fluoroscopy
+Humans
+*Interprofessional Relations
+Motion Pictures
+Palatal Obturators
+Palate, Soft/surgery
+*Patient Care Team
+Pharynx/surgery
+Retrospective Studies
+Speech Disorders/diagnosis/therapy
+Speech Therapy/instrumentation
+*Speech-Language Pathology
+Treatment Outcome
+Velopharyngeal Insufficiency/surgery/*therapy
+L1  - internal-pdf://3184611476/Dixon-Wood-1991-Team acceptance of specific re.pdf
+LA  - eng
+N1  - Dixon-Wood, V L
+Williams, W N
+Seagle, M B
+Journal Article
+United States
+1991/07/01
+Cleft Palate Craniofac J. 1991 Jul;28(3):285-90; discussion 290-2. doi: 10.1597/1545-1569_1991_028_0285_taosrf_2.3.co_2.
+PY  - 1991
+SN  - 1055-6656 (Print)
+1055-6656
+SP  - 285-90; discussion 290-2
+ST  - Team acceptance of specific recommendations for the treatment of VPI as provided by speech pathologists
+T2  - Cleft Palate Craniofac J
+TI  - Team acceptance of specific recommendations for the treatment of VPI as provided by speech pathologists
+VL  - 28
+ID  - 1852
+ER  - 
+
+TY  - JOUR
+AB  - Prosthetic rehabilitation of an edentulous adult with a complete residual cleft of his palates is presented. Lack of retention of his prosthesis made speech and eating difficult. Four osseointegrated dental implants were used to join the right and left maxillae and to provide mechanical retention for a complete overdenture obturator to improve function.
+AD  - Department of Continuing Education, University of Pittsburgh School of Dental Medicine, PA.
+AN  - 1472531
+AU  - Harrison, J. W.
+DA  - Sep
+DO  - 10.1597/1545-1569_1992_029_0485_ditrap_2.3.co_2
+DP  - NLM
+IS  - 5
+KW  - Cleft Palate/complications/*rehabilitation
+Dental Implantation, Endosseous/*methods
+*Dental Implants
+Dental Prosthesis Retention/*methods
+Denture, Overlay
+Humans
+Jaw, Edentulous/complications/surgery
+Male
+Middle Aged
+*Palatal Obturators
+Palate, Soft/abnormalities
+L1  - internal-pdf://1335354340/Harrison-1992-Dental implants to rehabilitate.pdf
+LA  - eng
+N1  - Harrison, J W
+Case Reports
+Journal Article
+United States
+1992/09/01
+Cleft Palate Craniofac J. 1992 Sep;29(5):485-8. doi: 10.1597/1545-1569_1992_029_0485_ditrap_2.3.co_2.
+PY  - 1992
+SN  - 1055-6656 (Print)
+1055-6656
+SP  - 485-8
+ST  - Dental implants to rehabilitate a patient with an unrepaired complete cleft of the hard and soft palate: a clinical report
+T2  - Cleft Palate Craniofac J
+TI  - Dental implants to rehabilitate a patient with an unrepaired complete cleft of the hard and soft palate: a clinical report
+VL  - 29
+ID  - 1813
+ER  - 
+
+TY  - JOUR
+AB  - A palatal lift prosthesis (PLP) is a prosthetic speech aid used to compensate for palatopharyngeal incompetence. However, it requires dental abutments to facilitate its function. In two edentulous patients with cleft palate, hydroxyapatite-coated dental implants were used to increase PLP retention. In both cases, palatopharyngeal closure was obtained and PLP function was deemed effective, as determined by speech evaluation and nasal air flow measurements, for more than 3 years. This treatment is useful for enhancing the retention of a PLP in patients who have few or no remaining natural tooth abutments.
+AD  - The First Department of Oral and Maxillofacial Surgery, Dental Hospital, Showa University, Tokyo, Japan.
+AN  - 8225467
+AU  - Matsui, Y.
+AU  - Ohno, K.
+AU  - Michi, K.
+AU  - Yamagata, K.
+DP  - NLM
+IS  - 3
+KW  - Adult
+Cleft Palate/*complications/rehabilitation
+*Dental Implants
+Dental Prosthesis Retention/instrumentation
+Durapatite
+Female
+Humans
+Magnetics
+*Prostheses and Implants
+Speech Disorders/etiology/surgery
+Velopharyngeal Insufficiency/etiology/*rehabilitation/surgery
+L1  - internal-pdf://0437116466/Matsui-1993-Application of hydroxyapatite-coat.pdf
+LA  - eng
+N1  - Matsui, Y
+Ohno, K
+Michi, K
+Yamagata, K
+Case Reports
+Journal Article
+United States
+1993/01/01
+Int J Oral Maxillofac Implants. 1993;8(3):316-22.
+PY  - 1993
+SN  - 0882-2786 (Print)
+0882-2786
+SP  - 316-22
+ST  - Application of hydroxyapatite-coated implants as support for palatal lift prostheses in edentulous patients with cleft palate: a clinical report
+T2  - Int J Oral Maxillofac Implants
+TI  - Application of hydroxyapatite-coated implants as support for palatal lift prostheses in edentulous patients with cleft palate: a clinical report
+VL  - 8
+ID  - 1872
+ER  - 
+
+TY  - JOUR
+AB  - Surgical and prosthetic treatments for speech disorders attributable to surgically acquired soft palate defects were investigated. Ten patients who had undergone soft palate resection for extensive cancer served as the subjects. In four patients, the resected portion of the soft palate was confined to the anterior or middle segments, with an intact posterior band, whereas in the remaining six patients the resected portion extended into the posterior edge. An obturator with or without a speech appliance was adapted to all patients in the former group and to one patient in the latter group. The remaining five patients in the latter group underwent surgical reconstruction using a free radial forearm flap immediately after resection of the soft palate. The speech of each patient was evaluated either before and after surgery in those treated only surgically or with and without the obturator in the other patients using a standard intelligibility test of 100 Japanese syllables. These tests showed that two of the four patients with a posterior band of soft palate remaining postsurgically achieved excellent restoration of speech and improvement of velopharyngeal function following placement of a special prosthesis. The patients who had resection extending into the posterior edge of the soft palate obtained better restoration of speech and function from surgical reconstruction rather than prosthetic management. All three patients who had surgical reconstruction, in whom the special obturator was applied achieved a slight increase in speech intelligibility scores resulting from the improvement of velopharyngeal function. These results suggest that surgical reconstruction and prosthetic management may best be applied selectively based on the extent of resection of the soft palate.
+AD  - H. Yoshida, Department of Stomatology, Institute of Clinical Medicine, University of Tsukuba, 1-1-1, Ten-noudai, Tsukuba-shi, Ibaragiken 305, Japan
+AU  - Yoshida, H.
+AU  - Michi, K. I.
+AU  - Yamashita, Y.
+AU  - Ohno, K.
+DB  - Embase
+Medline
+DO  - 10.1016/S0278-2391(10)80345-3
+IS  - 4
+KW  - adult
+aged
+article
+clinical article
+female
+human
+male
+maxillofacial prosthesis
+palate disease
+palatopharyngeal incompetence
+palatoplasty
+plastic surgery
+priority journal
+soft palate
+speech disorder
+L1  - internal-pdf://2349174261/Yoshida-1993-A comparison of surgical and pros.pdf
+LA  - English
+M3  - Article
+N1  - L23100624
+1993-04-20
+PY  - 1993
+SN  - 0278-2391
+SP  - 361-365
+ST  - A comparison of surgical and prosthetic treatment for speech disorders attributable to surgically acquired soft palate defects
+T2  - Journal of Oral and Maxillofacial Surgery
+TI  - A comparison of surgical and prosthetic treatment for speech disorders attributable to surgically acquired soft palate defects
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L23100624&from=export
+http://dx.doi.org/10.1016/S0278-2391(10)80345-3
+VL  - 51
+ID  - 1439
+ER  - 
+
+TY  - JOUR
+AB  - This study assesses the success rate of osseous integrated implantation in assisting the prosthetic obturation of maxillectomy defects. Twenty-three patients received a total of 85 osseous integrated implants used for retaining maxillary obturators between 1985 and 1993. Defects include 13 radical maxillectomies, 5 premaxillary resections, 4 subtotal maxillectomies, and 1 soft-palate resection. Thirteen patients (50 implants) received a radiation dose ranging from 5,040 to 7,940 cGy. Implants can be placed at the time of ablation or subsequently. Efforts were made to spare uninvolved segments of the maxilla, especially premaxillary segments and tuberosities, at the time of ablation. Following a 6-month period of integration, implants were uncovered and utilized in prosthetic rehabilitation. Specific implant sites reveal variable success rates, with the anterior maxilla being 86% successful compared with the posterior maxilla being 57% successful. Radiation reduces the success rate from 80% to 55%, although it does not eliminate a patient from being a candidate for implantation. Prosthetic rehabilitation of large maxillary defects can be greatly facilitated with the use of osseous integrated implants in the remaining midfacial skeleton.
+AD  - Department of Plastic and Reconstructive Surgery, City of Hope National Medical Center, Duarte, California 91010.
+AN  - 7977962
+AU  - Lorant, J. A.
+AU  - Roumanas, E.
+AU  - Nishimura, R.
+AU  - Beumer, J., 3rd
+AU  - Wagman, L. D.
+DA  - Nov
+DO  - 10.1016/s0002-9610(05)80087-x
+DP  - NLM
+IS  - 5
+KW  - Alveolar Bone Loss/complications
+Bone Transplantation
+Humans
+Maxilla/*surgery
+Maxillary Diseases/complications
+Maxillary Neoplasms/complications/radiotherapy/surgery
+*Maxillofacial Prosthesis
+*Prostheses and Implants
+Treatment Outcome
+L1  - internal-pdf://0745425661/Lorant-1994-Restoration of oral function after.pdf
+LA  - eng
+N1  - Lorant, J A
+Roumanas, E
+Nishimura, R
+Beumer, J 3rd
+Wagman, L D
+Journal Article
+United States
+1994/11/01
+Am J Surg. 1994 Nov;168(5):412-4. doi: 10.1016/s0002-9610(05)80087-x.
+PY  - 1994
+SN  - 0002-9610 (Print)
+0002-9610
+SP  - 412-4
+ST  - Restoration of oral function after maxillectomy with osseous integrated implant retained maxillary obturators
+T2  - Am J Surg
+TI  - Restoration of oral function after maxillectomy with osseous integrated implant retained maxillary obturators
+VL  - 168
+ID  - 1788
+ER  - 
+
+TY  - JOUR
+AB  - The purpose of this investigation was to evaluate the ability of palatal lift protheses to stimulate the neuromuscular activity of the velopharynx. Nasendoscopic evaluations were audio-videotaped preprosthetic and postprosthetic management for 25 patients who underwent placement of a palatal lift prosthesis for velopharyngeal dysfunction (VPD), These audio-videotapes were presented in blinded fashion and random order to three speech pathologists experienced in assessment of patients with VPD, They rated the tapes on the following parameters: VP gap size, closure pattern, orifice estimate, direction and magnitude of change, and qualitative descriptions of the adequacy of VP closure during speech, VP closure for speech was unchanged in 69% of patients and the number of patients rated as improved or deteriorated was nearly identical at about 15%, Postintervention gap shape remained unchanged in 70% of patients, The extent of VP orifice closure during speech remained unchanged in 57% of patients, Articulations that could impair VP function improved in 30% of patients, deteriorating in only 4%, Results of this study neither support the concept that palatal lift prostheses alter the neuromuscular patterning of the velopharynx, nor provide objective documentation of the feasibility of prosthetic reduction for weaning.
+AD  - WASHINGTON UNIV, SCH MED, DEPT PLAST & RECONSTRUCT SURG, ST LOUIS, MO 63110 USA. WASHINGTON UNIV, SCH MED, DEPT THERAPY SERV & COMMUN DISORDERS, ST LOUIS, MO 63110 USA. WASHINGTON UNIV, SCH MED, DEPT OTOLARYNGOL HEAD & NECK SURG, ST LOUIS, MO 63110 USA.
+WITT, PD (corresponding author), WASHINGTON UNIV, ST LOUIS CHILDRENS HOSP, SCH MED, CTR CLEFT PALATE & CRANIOFACIAL DEFORMITIES, ST LOUIS, MO 63110 USA.
+AN  - WOS:A1995TE08000003
+AU  - Witt, P. D.
+AU  - Rozelle, A. A.
+AU  - Marsh, J. L.
+AU  - Martygrames, L.
+AU  - Muntz, H. R.
+AU  - Gay, W. D.
+AU  - Pilgram, T. K.
+DA  - Nov
+DO  - 10.1597/1545-1569(1995)032<0469:Dplpsv>2.3.Co;2
+IS  - 6
+J2  - Cleft Palate-Craniofac. J.
+KW  - nasendoscopy
+palatal lift
+prosthesis
+prosthetic reduction
+velopharyngeal dysfunction
+pharyngeal flap surgery
+prosthodontic management
+speech
+nasopharyngoscopy
+adults
+Dentistry, Oral Surgery & Medicine
+Surgery
+L1  - internal-pdf://1411154259/Witt-1995-DO PALATAL LIFT PROSTHESES STIMULATE.pdf
+LA  - English
+M3  - Article
+N1  - ISI Document Delivery No.: TE080
+Times Cited: 22
+Cited Reference Count: 33
+Witt, pd rozelle, aa marsh, jl martygrames, l muntz, hr gay, wd pilgram, tk
+25
+0
+1
+Alliance communications group division allen press
+Lawrence
+1545-1569
+PY  - 1995
+SN  - 1055-6656
+SP  - 469-475
+ST  - DO PALATAL LIFT PROSTHESES STIMULATE VELOPHARYNGEAL NEUROMUSCULAR ACTIVITY
+T2  - Cleft Palate-Craniofacial Journal
+TI  - DO PALATAL LIFT PROSTHESES STIMULATE VELOPHARYNGEAL NEUROMUSCULAR ACTIVITY
+UR  - <Go to ISI>://WOS:A1995TE08000003
+VL  - 32
+ID  - 2075
+ER  - 
+
+TY  - JOUR
+AB  - The application of nasal anemometry in this patient's treatment proved to be of value in obtaining an objective assessment of this intervention. Nasal anemometry may be of use in other situations, for example, (1) in preassessment and postassessment of cleft palate surgery and surgical interventions to improve the velopharyngeal seal (such as pharyngoplasty), (2) in the evaluation of nasalized speech with conventional speech therapy, (3) in the evaluation of nasalized speech by use of a palatal training appliance, and (4) in the investigation of snoring.
+AD  - University of Kent, Canterbury, United Kingdom.
+AN  - 8709010
+AU  - Kelly, S. W.
+AU  - McLean, C. C.
+AU  - Manley, M. C.
+DA  - May
+DO  - 10.1016/s0022-3913(96)90449-7
+DP  - NLM
+IS  - 5
+KW  - Denture, Partial
+Female
+Humans
+Middle Aged
+Motor Neuron Disease/*complications
+Palatal Obturators
+Pulmonary Ventilation
+Velopharyngeal Insufficiency/complications/etiology/*therapy
+Voice Disorders/diagnosis/etiology/*therapy
+*Voice Quality
+L1  - internal-pdf://1943327684/Kelly-1996-Assessment in the treatment of hype.pdf
+LA  - eng
+N1  - Kelly, S W
+McLean, C C
+Manley, M C
+Case Reports
+Journal Article
+United States
+1996/05/01
+J Prosthet Dent. 1996 May;75(5):479-82. doi: 10.1016/s0022-3913(96)90449-7.
+PY  - 1996
+SN  - 0022-3913 (Print)
+0022-3913
+SP  - 479-82
+ST  - Assessment in the treatment of hypernasal speech with motor neuron disease: a clinical report
+T2  - J Prosthet Dent
+TI  - Assessment in the treatment of hypernasal speech with motor neuron disease: a clinical report
+VL  - 75
+ID  - 1832
+ER  - 
+
+TY  - JOUR
+AB  - Background. Speech and swallowing problems due to velopharyngeal incompetence may follow soft palate resection and reconstruction. Over the past 3 years, we have developed the use of a superiorly based pharyngeal flap in conjunction with a radial forearm flap for soft palate reconstruction. Methods. This paper describes the technique in detail and compares the functional results in a study with patients undergoing soft palate resection for squamous cell carcinoma treated with or without a pharyngeal flap as an adjunct to a radial forearm free flap for soft palate reconstruction. Seven patients had one quarter or one half soft palate defects reconstructed with a redial forearm flap alone. Of the 11 patients undergoing three quarter or total soft palate resections, all were reconstructed with a radial forearm flap, but 5 were treated with an additional superiorly based pharyngeal flap. The functional outcome for all the patients was analyzed and compared. Results. Our results show that the addition of the superiorly based pharyngeal to the radial forearm flap in soft palate reconstruction results in improved speech and swallowing. We recommend the use of the additional flap in resections in which more than one quarter of the soft palate is included.
+AD  - J.S. Brown, Regional Maxillofacial Unit, Walton Hospital, Rice Lane, Liverpool, Merseyside L9 1AE, United Kingdom
+AU  - Brown, J. S.
+AU  - Zuydam, A. C.
+AU  - Carl Jones, D.
+AU  - Rogers, S. N.
+AU  - David Vaughan, E.
+DB  - Embase
+Medline
+DO  - 10.1002/(sici)1097-0347(199709)19:6<524::aid-hed10>3.0.co;2-5
+IS  - 6
+KW  - adult
+aged
+article
+clinical article
+clinical trial
+female
+forearm
+functional assessment
+human
+male
+oropharynx cancer
+pharynx
+plastic surgery
+priority journal
+soft palate
+squamous cell carcinoma
+surgical technique
+tissue flap
+L1  - internal-pdf://1540383426/Brown-1997-Functional outcome in soft palate r.pdf
+LA  - English
+M3  - Article
+N1  - L27349672
+1997-09-01
+PY  - 1997
+SN  - 0148-6403
+SP  - 524-534
+ST  - Functional outcome in soft palate reconstruction using a radial forearm free flap in conjunction with a superiorly based pharyngeal flap
+T2  - Head and Neck
+TI  - Functional outcome in soft palate reconstruction using a radial forearm free flap in conjunction with a superiorly based pharyngeal flap
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L27349672&from=export
+http://dx.doi.org/10.1002/(sici)1097-0347(199709)19:6<524::aid-hed10>3.0.co;2-5
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/%28SICI%291097-0347%28199709%2919%3A6%3C524%3A%3AAID-HED10%3E3.0.CO%3B2-5?download=true
+VL  - 19
+ID  - 1404
+ER  - 
+
+TY  - JOUR
+AB  - A speech aid prosthesis was fabricated to correct the hypernasality of the speech of a patient. The hypernasality was caused by velopharyngeal insufficiency related to Wegener's granulomatosis. Speech aids have been used for cleft palate patients for whom surgical treatment was not indicated, surgical treatment was declined, or before surgical treatment as an evaluation for possible speech improvement. A speech aid prosthesis can be an important treatment modality when surgical correction of a velopharyngeal defect is not indicated.
+AD  - A.M. Manganaro, Department of Oral and Maxillofacial Surgery, United States Army Dental Corps, USA DENTAC, USA.
+AU  - Manganaro, A. M.
+AU  - Bryant, A. W.
+DB  - Medline
+IS  - 4
+KW  - acrylic acid resin
+stainless steel
+adult
+article
+case report
+female
+human
+devices
+palatopharyngeal incompetence
+pathology
+prostheses and orthoses
+prosthesis
+soft palate
+speech disorder
+speech therapy
+Wegener granulomatosis
+L1  - internal-pdf://3667706853/Manganaro-1997-Speech aid prosthesis for a pat.pdf
+LA  - English
+M3  - Article
+N1  - L127240886
+1997-06-09
+PY  - 1997
+SN  - 0022-3913
+SP  - 346-347
+ST  - Speech aid prosthesis for a patient with Wegener's granulomatosis: a clinical report
+T2  - The Journal of prosthetic dentistry
+TI  - Speech aid prosthesis for a patient with Wegener's granulomatosis: a clinical report
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L127240886&from=export
+VL  - 77
+ID  - 1396
+ER  - 
+
+TY  - JOUR
+AB  - STATEMENT OF PROBLEM: When surgical treatment is not considered an option, prosthetic management of velopharyngeal insufficiency is carried out by means of a speech-aid prosthesis, whereas velopharyngeal incompetence is traditionally managed by a palatal lift prosthesis. Varying degrees of treatment success have been attributed to palatal lift prostheses. PURPOSE: This study introduces the use of nasopharyngeal obturation instead of palatal elevation for the management of velopharyngeal incompetence. METHODS: Seven patients afflicted by neurogenic velopharyngeal incompetence were treated with wire-extension speech-aid prostheses constructed to circumvent the dysfunctional soft palate. The shape of the nasopharyngeal section was functionally molded in speech and swallowing and controlled by video-nasopharyngoscopic examinations. RESULTS: Effective nasopharyngeal obturation with notable improved speech was achieved in all patients. Even though all patients ultimately tolerated the prostheses well, 2 patients denied any improvement in speech with the finalized prostheses. CONCLUSION: Wire-extension speech-aid prostheses used by the patients were an effective treatment approach for velopharyngeal incompetence. Nasopharyngoscopic control is mandatory for maximizing the effect of velopharyngeal closure around the nasopharyngeal section of the prosthesis in function, yet it allows free nasal breathing. Velopharyngeally incompetent patients should be carefully tailored for prosthetic treatment because of contingent noncompliance.
+AD  - A. Shifman, Maurice and Gabriela Goldschleger School of Dental Medicine, and Chaim Sheba Medical Center, Tel-Hashomer, Israel.
+AU  - Shifman, A.
+AU  - Finkelstein, Y.
+AU  - Nachmani, A.
+AU  - Ophir, D.
+DB  - Medline
+IS  - 1
+KW  - adult
+article
+child
+endoscopy
+feasibility study
+female
+fluoroscopy
+human
+devices
+male
+methodology
+middle aged
+nasopharynx
+palatopharyngeal incompetence
+prostheses and orthoses
+prosthesis
+speech analysis
+speech intelligibility
+speech therapy
+videorecording
+L1  - internal-pdf://4125132170/Shifman-2000-Speech-aid prostheses for neuroge.pdf
+LA  - English
+M3  - Article
+N1  - L31283645
+2000-02-17
+PY  - 2000
+SN  - 0022-3913
+SP  - 99-106
+ST  - Speech-aid prostheses for neurogenic velopharyngeal incompetence
+T2  - The Journal of prosthetic dentistry
+TI  - Speech-aid prostheses for neurogenic velopharyngeal incompetence
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L31283645&from=export
+VL  - 83
+ID  - 1358
+ER  - 
+
+TY  - JOUR
+AB  - Objective: The purposes of this electromyographic study were to examine whether levator veli palatini muscle activity during speech can be changed with placement of a speech appliance and to clarify whether or not the change is related to the type of speech appliance used. Design: Electromyography (EMG) was performed during production of speech samples in two conditions: with placement and with removal of a speech appliance. Speech samples were the vowel /ω/ and consonant-vowel (ω) syllables, including nasal, plosive, fricative, and affricate consonants. Setting: Division for Oral-Facial Disorders, Faculty of Dentistry, Osaka University Dental Hospital, Japan. Participants: Subjects were six patients with repaired cleft palate and velopharyngeal inadequacy (VPI); three routinely wore a palatal lift prosthesis to correct borderline VPI, and the other three wore a speech appliance hybrid that consisted of a pharyngeal bulb and a palatal lift. Interventions: Each patient was asked to produce each speech sample in both conditions of placement and removal of their respective appliances. Main Outcome Measures: Smoothed EMG signals of the levator veil palatini muscle were recorded with and without the appliance during five repetitions of each speech sample. The average value of peak smoothed levator EMG was compared between placement and removal conditions for all subjects and between the two subject groups in each experimental condition. Results: With a speech appliance in place, the range of levator activity was distributed in a portion lower than that in the removed condition for subjects in both appliance groups. In addition, the intervals were smaller in the placement condition than in the removed condition. Conclusion: A speech appliance may prevent hypernasality, nasal emission of air, or both associated with VPI because of mechanical obturation of the velopharynx and an alteration in velopharyngeal function.
+AD  - T. Tachimura, Div. for Oral and Facial Disorders, Faculty of Dentistry, Osaka University, 1-8 Yamada-Oka, Suita, Osaka 565-0871, Japan
+AU  - Tachimura, T.
+AU  - Nohara, K.
+AU  - Wada, T.
+DB  - Embase
+Medline
+DO  - 10.1597/1545-1569(2000)037<0478:EOPOAS>2.0.CO;2
+IS  - 5
+KW  - adolescent
+adult
+article
+child
+cleft palate
+clinical article
+electromyography
+female
+human
+male
+muscle contraction
+palate
+palatopharyngeal incompetence
+priority journal
+prosthesis
+speech
+L1  - internal-pdf://1143408282/Tachimura-2000-Effect of placement of a speech.pdf
+LA  - English
+M3  - Article
+N1  - L30775454
+2000-11-06
+PY  - 2000
+SN  - 1055-6656
+SP  - 478-482
+ST  - Effect of placement of a speech appliance on levator veli palatini muscle activity during speech
+T2  - Cleft Palate-Craniofacial Journal
+TI  - Effect of placement of a speech appliance on levator veli palatini muscle activity during speech
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L30775454&from=export
+http://dx.doi.org/10.1597/1545-1569(2000)037<0478:EOPOAS>2.0.CO;2
+VL  - 37
+ID  - 1348
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: Speech outcome measurements are valuable in guiding treatment and determining the effectiveness of rehabilitation with a maxillary obturator prosthesis in individuals with palatal resection. Although speech outcome data exist in the literature for such patients, relatively few reports have used clinical tools designed to measure the acoustic, physiologic, and perceptual bases of speech. This investigation reports these measures for individuals rehabilitated with a maxillary obturator. MATERIALS AND METHODS: Speech measurements were collected prospectively at three clinical visit times (preoperative, postresection without an obturator, and with a definitive obturator) for 12 patients assigned to three groups based on the extent of their resection (< half the hard palate, > or = half the hard palate, hard and soft palates). Acoustic data were obtained with the Nasometer, aeromechanical data were collected with the PERCI-SARS, and perceptual ratings of speech intelligibility were obtained through listener analysis. RESULTS: Significant differences existed among the three treatments for all dependent variables and revealed that speech without an obturator is significantly different from the preoperative state, while speech with an obturator does not differ significantly from preoperative function. Individuals with soft palate involvement exhibited significantly poorer nasalance values than individuals with involvement of the hard palate only. CONCLUSION: Rehabilitation with a maxillary obturator is successful in restoring preoperative speech function. Rehabilitation of individuals with involvement of the soft palate may be more challenging.
+AD  - Faculty of Rehabilitation Medicine, University of Alberta, Canada. Jana.Rieger@ualberta.ca
+AN  - 11951803
+AU  - Rieger, J.
+AU  - Wolfaardt, J.
+AU  - Seikaly, H.
+AU  - Jha, N.
+DA  - Mar-Apr
+DP  - NLM
+IS  - 2
+KW  - Adolescent
+Adult
+Aged
+Analysis of Variance
+Female
+Humans
+Male
+Middle Aged
+*Palatal Obturators
+Palate, Hard/surgery
+Palate, Soft/surgery
+Prospective Studies
+*Speech
+Speech Intelligibility
+Velopharyngeal Insufficiency/diagnosis
+Voice Quality
+L1  - internal-pdf://1473442062/Rieger-2002-Speech outcomes in patients rehabi.pdf
+LA  - eng
+N1  - Rieger, Jana
+Wolfaardt, John
+Seikaly, Hadi
+Jha, Naresh
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2002/04/16
+Int J Prosthodont. 2002 Mar-Apr;15(2):139-44.
+PY  - 2002
+SN  - 0893-2174 (Print)
+0893-2174
+SP  - 139-44
+ST  - Speech outcomes in patients rehabilitated with maxillary obturator prostheses after maxillectomy: a prospective study
+T2  - Int J Prosthodont
+TI  - Speech outcomes in patients rehabilitated with maxillary obturator prostheses after maxillectomy: a prospective study
+VL  - 15
+ID  - 1722
+ER  - 
+
+TY  - JOUR
+AB  - This retrospective study spans the years 1988 to 2000 and looks specifically at the treatment procedures and outcomes for the correction of velopharyngeal insufficiency (VPI). Ninety-eight patients underwent preoperative assessment by speech pathologists that included perceptual speech evaluation, videofluoroscopy, and, for some, nasendoscopy. Based on this evaluation protocol, a specific surgical procedure was chosen to serve the patients' needs. The four procedures of choice were the palatal pushback with a pharyngeal flap lining, sphincter pharyngoplasty, a superiorly based obturating pharyngeal flap, and Furlow palatoplasty. The criteria for selecting these procedures are reviewed. The results revealed VPI resolution and the establishment of normal nonnasal speech in more than 95% of the 75 patients for whom outcomes were determined. This study reiterates the importance of thorough preoperative evaluation and the individualization of the secondary corrective procedure.
+AD  - Department of Surgery, Division of Plastic and Reconstructive Surgery, University of Florida Health Science Center, Gainesville, FL, USA.
+AN  - 11981184
+AU  - Seagle, M. B.
+AU  - Mazaheri, M. K.
+AU  - Dixon-Wood, V. L.
+AU  - Williams, W. N.
+DA  - May
+DO  - 10.1097/00000637-200205000-00003
+DP  - NLM
+IS  - 5
+KW  - Adult
+Child
+Cleft Palate/complications
+Female
+Humans
+Male
+Palate, Soft/surgery
+Pharynx/surgery
+Reoperation
+Retrospective Studies
+Surgical Flaps
+Treatment Failure
+Velopharyngeal Insufficiency/diagnosis/etiology/*surgery
+L1  - internal-pdf://1927495994/Seagle-2002-Evaluation and treatment of veloph.pdf
+LA  - eng
+N1  - Seagle, M Brent
+Mazaheri, Mehdi K
+Dixon-Wood, Virginia L
+Williams, William N
+Journal Article
+United States
+2002/05/01
+Ann Plast Surg. 2002 May;48(5):464-70. doi: 10.1097/00000637-200205000-00003.
+PY  - 2002
+SN  - 0148-7043 (Print)
+0148-7043
+SP  - 464-70
+ST  - Evaluation and treatment of velopharyngeal insufficiency: the University of Florida experience
+T2  - Ann Plast Surg
+TI  - Evaluation and treatment of velopharyngeal insufficiency: the University of Florida experience
+VL  - 48
+ID  - 1618
+ER  - 
+
+TY  - JOUR
+AB  - Objective To evaluate the effect of a system of velopharyngeal incompetence (VPI) management after the application of obturator. Methods Using nasopharyngofiberoscope (NPF) and a computer analysis system, we quantitatively analyzed the improved state of velopharyngeal incompetence in 100 patients with unilateral and/or bilateral cleft palate. Results The velopharyngeal closure (VPC) can be greatly improved by using a temporary oral prosthesis (obturator) and speech training. An objective quantitative standard was established to evaluate the change of velopharyngeal closure of cleft palate patients after surgery and conservative treatment. Conclusions The method used is more succinct, accurate and practical than previous methods. In order to reflect the state of velopharyngeal incompetence, the concept of improvement rate of velopharyngeal incompetence (IRVPI) is put forward.
+AD  - Qingdao Univ, Affiliated Hosp Qingdao Med Coll, Dept Oral & Maxillofacial Surg, Qingdao 266003, Peoples R China.
+Sun, J (corresponding author), Qingdao Univ, Affiliated Hosp Qingdao Med Coll, Dept Oral & Maxillofacial Surg, Qingdao 266003, Peoples R China.
+AN  - WOS:000176693300010
+AU  - Sun, J.
+AU  - Li, N. Y.
+AU  - Sun, G. L.
+DA  - Jun
+IS  - 6
+J2  - Chin. Med. J.
+KW  - cleft palate
+obturator
+velopharyngeal incompetence
+nasopharyngofiberoscope
+General & Internal Medicine
+L1  - internal-pdf://0114723506/Sun-2002-Application of obturator to treat vel.pdf
+LA  - English
+M3  - Article
+N1  - ISI Document Delivery No.: 571AU
+Times Cited: 1
+Cited Reference Count: 8
+Sun, J Li, NY Sun, GL
+1
+0
+2
+Chinese medical association
+Beijing
+PY  - 2002
+SN  - 0366-6999
+SP  - 842-845
+ST  - Application of obturator to treat velopharyngeal incompetence
+T2  - Chinese Medical Journal
+TI  - Application of obturator to treat velopharyngeal incompetence
+UR  - <Go to ISI>://WOS:000176693300010
+VL  - 115
+ID  - 2095
+ER  - 
+
+TY  - JOUR
+AB  - Objective: In the past, palatal lift prostheses (PLPs) have been problematic with respect to stability. This stability problem has been addressed by designing a PLP that includes a palatal bar. Structure: A PLP combined with a palatal bar is functionally characterized by a palatal bar that holds down the posterior palatal plate. By making this location the fulcrum, the force exerted by the soft palate on the lamina actually functions to stabilize the prosthesis instead of acting to overturn it. Cases: This new prosthetic design was applied to patients with cleft palate and those who had undergone cerebral contrusion operations. The experimental group was composed of a total of 13 patients (7 men and boys, 6 women and girls) who ranged in age at the time of introduction of the prosthesis from 4 years 6 months old to 54 years 5 months. The period of follow-up after prosthetic insertion ranged from 2 months to 4 years 1 month. In all cases, the stability of the prosthesis was sufficiently maintained. Conclusion: Because of increased stability, this technique can be applied to not only adult patients but also children in whom insertion during the deciduous dentition period can be difficult. The new PLP was also found to be effective in patients with cleft palate with a short clinical crown.
+AD  - N. Ueda, Department of Orthodontics, Kawasaki Medical School, 577 Matsushima, Kurashiki, Okayama 701-0192, Japan
+AU  - Ueda, N.
+AU  - Sato, Y.
+AU  - Senoo, Y.
+AU  - Mori, T.
+AU  - Moriguchi, T.
+AU  - Nakagawa, H.
+DB  - Embase
+Medline
+DO  - 10.1597/1545-1569(2002)039<0012:NDOAPL>2.0.CO;2
+IS  - 1
+KW  - adolescent
+adult
+article
+child
+clinical article
+deciduous tooth
+female
+follow up
+human
+image analysis
+male
+transpalatal arch
+palatal lift prosthesis
+palatopharyngeal incompetence
+preschool child
+priority journal
+prosthesis
+school child
+speech disorder
+surgical technique
+treatment outcome
+L1  - internal-pdf://3385917100/Ueda-2002-New design of a palatal lift prosthe.pdf
+LA  - English
+M3  - Article
+N1  - L34052997
+2002-01-23
+PY  - 2002
+SN  - 1055-6656
+SP  - 12-17
+ST  - New design of a palatal lift prosthesis combined with a palatal bar
+T2  - Cleft Palate-Craniofacial Journal
+TI  - New design of a palatal lift prosthesis combined with a palatal bar
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L34052997&from=export
+http://dx.doi.org/10.1597/1545-1569(2002)039<0012:NDOAPL>2.0.CO;2
+VL  - 39
+ID  - 1321
+ER  - 
+
+TY  - JOUR
+AB  - Objective: Prosthetic treatment for speech disorders attributable to surgically acquired soft palate defects are introduced. Case: A patient who underwent soft palate resection for cancer is presented. The resected portion of the soft palate was confined to the posterior segments. A prosthesis with a speech bulb was adapted to the patient. Conclusion: Excellent restoration of speech and improvement of velopharyngeal function was achieved following placement of the special prosthesis.
+AD  - F. Keyf, Dept. of Prosthodontic Fac. of Dent., Hacettepe University, Sihhiye 06100, Ankara, Turkey
+AU  - Keyf, F.
+AU  - Sahin, N.
+AU  - Aslan, Y.
+DB  - Embase
+Medline
+DO  - 10.1597/1545-1569(2003)040<0566:AITFAS>2.0.CO;2
+IS  - 6
+KW  - adult
+article
+cancer surgery
+case report
+female
+human
+pharynx
+priority journal
+prosthesis
+soft palate
+palatal obturator
+speech disorder
+procedures
+treatment outcome
+L1  - internal-pdf://3813431116/Keyf-2003-Alternative Impression Technique for.pdf
+LA  - English
+M3  - Article
+N1  - L37429682
+2003-12-10
+PY  - 2003
+SN  - 1055-6656
+SP  - 566-568
+ST  - Alternative Impression Technique for a Speech-Aid Prosthesis
+T2  - Cleft Palate-Craniofacial Journal
+TI  - Alternative Impression Technique for a Speech-Aid Prosthesis
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L37429682&from=export
+http://dx.doi.org/10.1597/1545-1569(2003)040<0566:AITFAS>2.0.CO;2
+VL  - 40
+ID  - 1273
+ER  - 
+
+TY  - JOUR
+AB  - A partially resected soft palate represents a more significant challenge for effective prosthodontic obturation than for complete soft palate resections. In fact, for some patients it may not be possible to prosthetically rehabilitate with partial soft palate resections, resulting in velopharyngeal dysfunction, which could include hypernasal voice quality and nasal regurgitation of food and liquids. This article presents a technique for recording the contours of a partial soft-palate defect for prosthetic obturation.
+AD  - Department of Head and Neck Surgery, M.D. Anderson Cancer Center, The University of Texas, Houston 77030-4009 USA. mchamber@mdanderson.org
+AN  - 14739897
+AU  - Chambers, M. S.
+AU  - Lemon, J. C.
+AU  - Martin, J. W.
+DA  - Jan
+DO  - 10.1016/j.prosdent.2003.10.006
+DP  - NLM
+IS  - 1
+KW  - Denture Bases
+Food
+Foreign Bodies/prevention & control
+Humans
+Nose
+*Palatal Obturators
+Palate, Soft/*surgery
+*Prosthesis Design/methods
+Speech Disorders/prevention & control
+Surface Properties
+Velopharyngeal Insufficiency/prevention & control
+L1  - internal-pdf://2113903881/Chambers-2004-Obturation of the partial soft p.pdf
+LA  - eng
+N1  - Chambers, Mark S
+Lemon, James C
+Martin, Jack W
+Journal Article
+United States
+2004/01/24
+J Prosthet Dent. 2004 Jan;91(1):75-9. doi: 10.1016/j.prosdent.2003.10.006.
+PY  - 2004
+SN  - 0022-3913 (Print)
+0022-3913
+SP  - 75-9
+ST  - Obturation of the partial soft palate defect
+T2  - J Prosthet Dent
+TI  - Obturation of the partial soft palate defect
+VL  - 91
+ID  - 1588
+ER  - 
+
+TY  - JOUR
+AB  - Objective: This study was designed to examine whether nasalance score is changed in association with placement of a palatal lift prosthesis (PLP) and whether normative data previously reported are applicable to evaluate the effect of a PLP on velopharyngeal function as it relates to nasality. Design: Nasalance scores were obtained as subjects read the Kitsutsuki Passage three times with the PLP in place and then removed. Participants: Forty-three children (mean age 9.0 years, SD = 3.6 years) with repaired cleft palate who were treated with a PLP were selected as subjects. Their speech was characterized by nasal emission of air, slight hypernasality without a PLP but within normal limits with a PLP in place, or both. Main Outcome Measures: Comparisons were made between normative scores and the average mean nasalance score of subjects with and without the PLP. Results: Average values of the mean nasalance score for subjects were 17.3% (SD 7.6%) with the PLP in place and 33.5% (SD 13.3%) without the PLP in place. These scores were greater than the mean score of 9.1% (SD 3.9%) obtained from normal controls previously reported. Conclusion: A PLP can decrease nasalance scores for speakers with repaired cleft palate who exhibit velopharyngeal incompetence. It was suggested that the normative score obtained from normal adult speakers is not applicable to evaluate the effect of a PLP to improve velopharyngeal function for children wearing the PLP.
+AD  - T. Tachimura, Div. of Functional Oral Neuroscience, Osaka Univ. Grad. Sch. of Dentistry, 1-8, Yamada-Oka, Suita, Osaka 565-0871, Japan
+AU  - Tachimura, T.
+AU  - Kotani, Y.
+AU  - Wada, T.
+DB  - Embase
+Medline
+DO  - 10.1597/02-107.1
+IS  - 3
+KW  - article
+child
+cleft palate
+clinical article
+comparative study
+female
+human
+Japan
+male
+palate
+palatopharyngeal incompetence
+pharynx
+priority journal
+prosthesis
+speech
+L1  - internal-pdf://2551642308/Tachimura-2004-Nasalance scores in wearers of.pdf
+LA  - English
+M3  - Article
+N1  - L38669573
+2004-06-22
+PY  - 2004
+SN  - 1055-6656
+SP  - 315-319
+ST  - Nasalance scores in wearers of a palatal lift prosthesis in comparison with normative data for Japanese
+T2  - Cleft Palate-Craniofacial Journal
+TI  - Nasalance scores in wearers of a palatal lift prosthesis in comparison with normative data for Japanese
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L38669573&from=export
+http://dx.doi.org/10.1597/02-107.1
+VL  - 41
+ID  - 1256
+ER  - 
+
+TY  - JOUR
+AB  - Patients with cleft lip or palate encounter a myriad of difficulties in their early years of life, some of which begin at birth. The defect often impairs suckling and deglutition in the neonate. It can hinder appropriate speech development and may impose undue social and psychological stresses. Surgical and orthodontic interventions are essential and prosthetic palatal appliances play an important role not only throughout the patient's treatment course, but also in the treatment of unfavorable surgical sequelae.
+AD  - Department of Head and Neck Surgery, The University of Texas M. D. Anderson Cancer Center, Houston 77230-1402, USA.
+AN  - 16491962
+AU  - Artopoulou, II
+AU  - Higuera, S.
+AU  - Martin, J. W.
+AU  - Stal, S.
+AU  - Chambers, M. S.
+DA  - Winter
+DO  - 10.17796/jcpd.30.2.f7404526285p3355
+DP  - NLM
+IS  - 2
+KW  - Child, Preschool
+Cleft Lip/complications/surgery
+Cleft Palate/complications/*rehabilitation/*surgery
+Female
+Humans
+Oroantral Fistula/etiology/*rehabilitation
+*Palatal Obturators
+Speech Disorders/etiology/therapy
+Velopharyngeal Insufficiency/etiology/rehabilitation
+L1  - internal-pdf://3695831790/Artopoulou-2005-Postsurgical use of prosthetic.pdf
+LA  - eng
+N1  - Artopoulou, Ioli-Ioanna
+Higuera, Stephen
+Martin, Jack W
+Stal, Samuel
+Chambers, Mark S
+Case Reports
+Journal Article
+United States
+2006/02/24
+J Clin Pediatr Dent. 2005 Winter;30(2):105-8. doi: 10.17796/jcpd.30.2.f7404526285p3355.
+PY  - 2005
+SN  - 1053-4628 (Print)
+1053-4628
+SP  - 105-8
+ST  - Postsurgical use of prosthetic palatal appliances. Two case reports
+T2  - J Clin Pediatr Dent
+TI  - Postsurgical use of prosthetic palatal appliances. Two case reports
+UR  - https://meridian.allenpress.com/jcpd/article-abstract/30/2/105/78286/Postsurgical-use-of-prosthetic-palatal-appliances?redirectedFrom=fulltext
+VL  - 30
+ID  - 1840
+ER  - 
+
+TY  - JOUR
+AB  - Background. Restoration of speech after surgical resection for oropharyngeal cancer traditionally includes maxillofacial prosthetic intervention. Relatively few publications with objective speech outcomes exist. The purpose of this study was to evaluate speech outcome relative to the size of the surgical defect, the type of speech prosthesis, and the height and position of the speech bulb in relation to the posterior pharyngeal wall in the nasopharynx. Methods. Fifty-five patients treated at the Memorial Sloan-Kettering Cancer Center Dental Service who underwent ablative cancer therapy were evaluated. All patients were 4 months or longer after surgery and were using a speech aid or obturator prosthesis at the time of the study. Speech samples for percent intelligibility and perceptual evaluation were collected and analyzed, in addition to aeromechanical measurements of palatopharyngeal function. Lateral cephalograms were taken while wearing the prosthesis using a radiopaque marker placed on the posterior aspect of the prosthesis for evaluating the height and position of the prosthesis obturator-speech bulb component. Results. After adjustment for the differences between listeners, findings revealed that as the percentage of resection of palate or tongue increased, the intelligibility of speech decreased. Aeromechanical assessment of speech was the only outcome measure sensitive to the type of speech prosthesis. The position of the speech bulb component, as well as the angle measured, was correlated with the percent intelligibility. The amount of the prosthesis physically contacting the posterior pharyngeal wall was not significantly associated with any of the functional outcome measures. Conclusions. Speech aid and obturator prostheses contribute to a higher percentage of intelligible speech. A difference in intelligibility exists in relationship to the position of the prosthesis and the anterior tubercle of the atlas vertebrae (C1), both statistically and clinically. The position for optimal speech could not be specifically located mathematically (ie, 3 mm or 3 degrees inferior to the anterior tubercle of the atlas vertebrae) from the analysis. Subjective ratings of the efficacy of the obturator-speech bulbs by the clinicians did not correspond to the percent intelligibility. A strong statistical and clinical correlation exists supporting the efficacy of speech bulb-obturator intervention after velopharyngeal insufficiency for improved intelligibility of both words and sentences. © 2005 Wiley Periodicals, Inc.
+AD  - I. Zlotolow, University of Pacific, School of Dentistry, San Francisco, CA 94115, United States
+AU  - Bohle Iii, G.
+AU  - Rieger, J.
+AU  - Huryn, J.
+AU  - Verbel, D.
+AU  - Hwang, F.
+AU  - Zlotolow, I.
+DB  - Embase
+Medline
+DO  - 10.1002/hed.10360
+IS  - 3
+KW  - tracer
+adolescent
+adult
+aged
+article
+cancer surgery
+cephalometry
+female
+functional assessment
+head and neck surgery
+human
+major clinical study
+male
+nasopharynx
+outcomes research
+palate disease
+palatopharyngeal incompetence
+pharynx
+postoperative complication
+priority journal
+prosthesis
+soft palate
+speech intelligibility
+tongue
+treatment outcome
+L1  - internal-pdf://1129566413/Bohle Iii-2005-Efficacy of speech aid prosthes.pdf
+LA  - English
+M3  - Article
+N1  - L40315768
+2005-03-23
+PY  - 2005
+SN  - 1043-3074
+SP  - 195-207
+ST  - Efficacy of speech aid prostheses for acquired defects of the soft palate and velopharyngeal inadequacy - Clinical assessments and cephalometric analysis: A memorial sloan-kettering study
+T2  - Head and Neck
+TI  - Efficacy of speech aid prostheses for acquired defects of the soft palate and velopharyngeal inadequacy - Clinical assessments and cephalometric analysis: A memorial sloan-kettering study
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L40315768&from=export
+http://dx.doi.org/10.1002/hed.10360
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hed.10360?download=true
+VL  - 27
+ID  - 1230
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To elucidate the effectiveness of the collaboration of a dentist and speech-language pathologist (SLP) in the rehabilitation of a stroke patient with dysarthria. DESIGN: A clinical case report treated in the rehabilitation hospital and dental surgery. SUBJECT: A 71-year-old Japanese man who was admitted to the rehabilitation hospital for speech rehabilitation 2 years and 5 months after a stroke. METHODS: Provision of prosthesis (palatal lift prosthesis + palatal augmentation prosthesis) for improving velopharyngeal incompetence (VPI) and articulation by dentist, and speech behavioural management by SLP including self-monitoring and bio-feedback training using the See-Scape. RESULTS: Speech behavioural management proved useful for promoting improvement in speech intelligibility to a functionally sufficient level after improving VPI by prosthesis. CONCLUSION: The collaborative efforts of the dentist and SLP in the rehabilitation of post-stroke patients with velopharyngeal incompetence should be encouraged.
+AD  - T. Ono, Division of Oromaxillofacial Regeneration, Osaka University Graduate School of Dentistry, Suita, Japan.
+AU  - Ono, T.
+AU  - Hamamura, M.
+AU  - Honda, K.
+AU  - Nokubi, T.
+DB  - Medline
+DO  - 10.1111/j.1741-2358.2005.00057.x
+IS  - 2
+KW  - aged
+article
+case report
+cerebrovascular accident
+dentistry
+denture
+dysarthria
+human
+male
+palatopharyngeal incompetence
+pathophysiology
+patient care
+prostheses and orthoses
+prosthesis
+psychophysiology
+soft palate
+speech disorder
+speech intelligibility
+L1  - internal-pdf://4059243604/Ono-2005-Collaboration of a dentist and speech.pdf
+LA  - English
+M3  - Article
+N1  - L40811770
+2005-06-23
+PY  - 2005
+SN  - 0734-0664
+SP  - 116-119
+ST  - Collaboration of a dentist and speech-language pathologist in the rehabilitation of a stroke patient with dysarthria: a case study
+T2  - Gerodontology
+TI  - Collaboration of a dentist and speech-language pathologist in the rehabilitation of a stroke patient with dysarthria: a case study
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L40811770&from=export
+http://dx.doi.org/10.1111/j.1741-2358.2005.00057.x
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1741-2358.2005.00057.x?download=true
+VL  - 22
+ID  - 1221
+ER  - 
+
+TY  - JOUR
+AB  - Prosthodontic rehabilitation of patients with bimaxillary resection involving the maxillae, hard and soft palates, and paranasal sinuses presents a significant challenge in restoring speech, deglutition, mastication, and respiration. This clinical report describes the prosthodontic management of a young girl treated for leukemia who required a bilateral maxillectomy secondary to mucormycosis. Distraction osteogenesis, bone grafts, osseointegrated implants, and magnet attachments were used to provide retention, support, and stability of a large definitive obturator. © 2006 The Editorial Council of The Journal of Prosthetic Dentistry.
+AD  - W.-s. Oh, Department of Biologic and Materials Sciences, University of Michigan School of Dentistry
+AU  - Oh, W. s
+AU  - Roumanas, E.
+DB  - Medline
+DO  - 10.1016/j.prosdent.2006.05.004
+IS  - 2
+KW  - article
+bone regeneration
+case report
+child
+denture
+distraction osteogenesis
+female
+follow up
+hard palate
+human
+devices
+jaw disease
+magnetism
+maxilla
+methodology
+microbiology
+mucormycosis
+nose septum
+opportunistic infection
+physiology
+soft palate
+tooth implantation
+tooth prosthesis
+L1  - internal-pdf://1642548899/Oh-2006-Dental implant-assisted prosthetic reh.pdf
+LA  - English
+M3  - Article
+N1  - L44189969
+2006-11-09
+PY  - 2006
+SN  - 0022-3913
+SP  - 88-95
+ST  - Dental implant-assisted prosthetic rehabilitation of a patient with a bilateral maxillectomy defect secondary to mucormycosis
+T2  - Journal of Prosthetic Dentistry
+TI  - Dental implant-assisted prosthetic rehabilitation of a patient with a bilateral maxillectomy defect secondary to mucormycosis
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L44189969&from=export
+http://dx.doi.org/10.1016/j.prosdent.2006.05.004
+VL  - 96
+ID  - 1185
+ER  - 
+
+TY  - JOUR
+AB  - Background: A prosthetic approach to velopharyngeal dysfunction (VPD) is not new. However, a collaborative interdisciplinary team approach by a speech-and-language therapist, dental specialist and maxillofacial technician, including accurate fitting using nasendoscopy, has provided an opportunity to define the clinical care pathway, and audit the outcomes of this intervention. Systematic outcome studies of the effectiveness of prosthetic appliances are few and largely anecdotal. Aims: The aim is twofold: first, to provide a description of the process including diagnosis, clinical and technical fabrication; and second, to determine the effectiveness of this intervention with nasendoscopy, objective blind perceptual analysis of speech data and nasometry. Methods & Procedures: The selection criteria, age, aetiology and process of fabrication are described. Thirty-one patients embarked on the programme, but seven patients after initial failure or refusal were re-entered into the programme for a second time resulting in 38 interventions. At the time of audit, 20 patients had completed the treatment, but four of these were inadequately documented. This study reports on the 16 patients who successfully completed the programme and who had comprehensive records. Outcomes & Results: Significant differences were found between the pre- and post-treatment evaluations on the speech parameters of hypernasality, audible nasal emission and nasometry. Conclusions: In our centre surgery is the first choice of treatment for VPD, but prosthetic management can be a useful alternative when this is contraindicated, can be a useful temporary solution and can be used to evaluate the potential benefits of surgical intervention in some cases. This treatment requires the combined expertise of an interdisciplinary team involving the speech-and-language therapist, orthodontist/prosthodontist, maxillofacial technician and endoscopist. © 2006 Royal College of Speech & Language Therapists.
+AD  - D. Sell, Speech and Language Therapy Department, Great Ormond Street Hospital for Children NHS Trust, Great Ormond Street, London WC1N 3JH, United Kingdom
+AU  - Sell, D.
+AU  - Mars, M.
+AU  - Worrell, E.
+DB  - Embase
+Medline
+DO  - 10.1080/13682820500515852
+IS  - 5
+KW  - adolescent
+adult
+article
+child
+clinical article
+endoscopy
+health care personnel
+human
+clinical audit
+medical documentation
+medical record
+medical specialist
+outcomes research
+palatopharyngeal incompetence
+patient selection
+process monitoring
+prosthesis
+speech analysis
+treatment contraindication
+treatment indication
+treatment outcome
+L1  - internal-pdf://3130390644/Sell-2006-Process and outcome study of multidi.pdf
+LA  - English
+M3  - Article
+N1  - L44578270
+2006-11-08
+PY  - 2006
+SN  - 1368-2822
+1460-6984
+SP  - 495-511
+ST  - Process and outcome study of multidisciplinary prosthetic treatment for velopharyngeal dysfunction
+T2  - International Journal of Language and Communication Disorders
+TI  - Process and outcome study of multidisciplinary prosthetic treatment for velopharyngeal dysfunction
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L44578270&from=export
+http://dx.doi.org/10.1080/13682820500515852
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1080/13682820500515852?download=true
+VL  - 41
+ID  - 1181
+ER  - 
+
+TY  - JOUR
+AB  - A soft palate defect may result from surgical resection, and its consequences could include hypernasal speech and nasal regurgitation of food and liquids. A speech aid prosthesis fabricated for patients can improve nasal emission during speech, and assist in preventing nasal regurgitation of food. This article presents a case of the reconstruction of a soft palate defect by prosthetic obturation. © 2007 Elsevier. All rights reserved.
+AD  - J.-H. Wu, Department of Dentistry, Kaohsiung Medical University Hospital, 100 Shih-Chuan 1st Road, Kaohsiung 807, Taiwan
+AU  - Wang, C. H.
+AU  - Huang, I. Y.
+AU  - Du, J. K.
+AU  - Chen, J. H.
+AU  - Lee, H. E.
+AU  - Lee, K. W.
+AU  - Wu, J. H.
+DB  - Embase
+Medline
+DO  - 10.1016/S1607-551X(08)70013-5
+IS  - 10
+KW  - alginic acid
+fluoride
+aged
+anamnesis
+article
+case report
+follow up
+gingivitis
+human
+male
+mouth cancer
+mouth examination
+oral surgery
+soft palate
+speech therapy
+tooth prosthesis
+L1  - internal-pdf://4084960732/Wang-2007-Reconstruction of the soft palate in.pdf
+LA  - English
+M3  - Article
+N1  - L350086101
+2007-11-26
+PY  - 2007
+SN  - 1607-551X
+SP  - 536-540
+ST  - Reconstruction of the soft palate in oral cancer to repair an operative defect with speech aid prosthesis: A case report
+T2  - Kaohsiung Journal of Medical Sciences
+TI  - Reconstruction of the soft palate in oral cancer to repair an operative defect with speech aid prosthesis: A case report
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L350086101&from=export
+http://dx.doi.org/10.1016/S1607-551X(08)70013-5
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/S1607-551X%2808%2970013-5?download=true
+VL  - 23
+ID  - 1138
+ER  - 
+
+TY  - JOUR
+AB  - Prosthetic rehabilitation of an edentulous cleft lip and palate patient with a combined hard and soft palate defect is a great challenge, due to the lack of retention of the obturator prosthesis as a result of its weight and the inability to obtain a border seal. Dental implants improve the retention, stability, and occlusal function of prostheses when used in carefully selected cleft lip and palate cases. This clinical report presents an edentulous unilateral cleft lip and palate patient who has hard and soft palate defects and an atrophied maxilla, treated with an implant-supported speech-aid prosthesis.
+AD  - Department of Prosthodontics, Faculty of Dentistry, Suleyman Demirel University, Isparta, Turkey.
+AN  - 19115799
+AU  - Hakan Tuna, S.
+AU  - Pekkan, G.
+AU  - Buyukgural, B.
+DA  - Jan
+DO  - 10.1597/07-216.1
+DP  - NLM
+ET  - 20080411
+IS  - 1
+KW  - Alveolar Bone Loss/complications
+Cleft Lip/complications
+Cleft Palate/*complications
+Dental Implantation, Endosseous
+Dental Prosthesis Retention
+*Dental Prosthesis, Implant-Supported
+Denture, Overlay
+Humans
+Jaw, Edentulous/complications/rehabilitation/surgery
+Male
+Middle Aged
+*Palatal Obturators
+Palate, Soft/physiopathology
+Prosthesis Design
+Speech Disorders/etiology/*rehabilitation
+Velopharyngeal Insufficiency/etiology/*therapy
+L1  - internal-pdf://0155789224/Hakan Tuna-2009-Rehabilitation of an edentulou.pdf
+LA  - eng
+N1  - Hakan Tuna, S
+Pekkan, Gurel
+Buyukgural, Bulent
+Case Reports
+Journal Article
+United States
+2009/01/01
+Cleft Palate Craniofac J. 2009 Jan;46(1):97-102. doi: 10.1597/07-216.1. Epub 2008 Apr 11.
+PY  - 2009
+SN  - 1055-6656 (Print)
+1055-6656
+SP  - 97-102
+ST  - Rehabilitation of an edentulous cleft lip and palate patient with a soft palate defect using a bar-retained, implant-supported speech-aid prosthesis: a clinical report
+T2  - Cleft Palate Craniofac J
+TI  - Rehabilitation of an edentulous cleft lip and palate patient with a soft palate defect using a bar-retained, implant-supported speech-aid prosthesis: a clinical report
+VL  - 46
+ID  - 1664
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: The aim of this study was to assess the effect of a palatal lift prosthesis (PLP) on the speech intelligibility of cleft palate patients treated with pharyngeal flap surgery, the minimum duration required for improvement in nasality, and the sustenance of speech improvement after removing the appliance. MATERIALS AND METHODS: Seven patients ranging between 16 and 26 years of age were recruited for this study. These subjects had velopharyngeal dysfunction secondary to a surgically corrected cleft palate, which failed to improve following pharyngeal flap surgery. A PLP was given to these patients and improvements in speech intelligibility were assessed using two speech examinations: perceptual analysis and nasometry. The nasal resonance, nasal air emission, and articulation were measured prior to the insertion of the prosthesis and at the end of every month for the next 3 months, following which the prosthesis was removed and the tests were repeated. RESULTS: There was a statistically significant decrease in nasalance percentage at the end of the 3 months, and it was found that this improvement in speech persisted even after the removal of the prosthesis. CONCLUSIONS: A PLP, when used for a minimum duration of 3 months, causes a significant decrease in nasal resonance, thereby improving speech intelligibility in patients who failed to see improvement following pharyngeal flap surgery for velopharyngeal incompetence.
+AD  - H. Raju, Department of Prosthodontics, Indra Gandhi Institute of Dental Sciences, Pondicherry, India.
+AU  - Raju, H.
+AU  - Padmanabhan, T. V.
+AU  - Narayan, A.
+DB  - Medline
+IS  - 6
+KW  - adolescent
+adult
+article
+cleft palate
+dysphonia
+female
+human
+male
+palatopharyngeal incompetence
+prostheses and orthoses
+rhinometry
+speech intelligibility
+L1  - internal-pdf://1566288819/Raju-2009-Effect of a palatal lift prosthesis.pdf
+LA  - English
+M3  - Article
+N1  - L355882092
+2010-03-05
+PY  - 2009
+SN  - 0893-2174
+SP  - 579-585
+ST  - Effect of a palatal lift prosthesis in individuals with velopharyngeal incompetence
+T2  - The International journal of prosthodontics
+TI  - Effect of a palatal lift prosthesis in individuals with velopharyngeal incompetence
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L355882092&from=export
+VL  - 22
+ID  - 1057
+ER  - 
+
+TY  - JOUR
+AB  - Purpose: The restoration of speech after an extensive resection of the soft palate has been a challenge faced by both prosthodontists and surgeons. Few comparisons between prosthetic rehabilitations and surgical reconstructions of large soft palate defects exist in equally matched groups of patients. The purpose of this study was to evaluate speech outcomes in patients with soft palate defects that were rehabilitated with either a pharyngeal obturator or surgical reconstruction. Materials and Methods: Nine patients who were treated via prosthetic obturation were compared to nine patients who underwent surgical reconstruction of the oropharynx with a radial forearm free flap and a soft palate insufficiency repair modification. Speech intelligibility data, perceptual ratings of resonance, and aeromechanical measurements of velopharyngeal function were collected. Results: There were no differences in any of the speech outcome measures between the two groups of patients. Conclusion: Future studies should focus on the patient's perspective on rehabilitative options and potential quality of life issues. Int J Prosthodont 2009; 22: 566-572.
+AD  - [Rieger, Jana; Tang, Judith Lam] Misericordia Hosp, Inst Reconstruct Sci Med, Edmonton, AB T5R 4H5, Canada. [Rieger, Jana] Univ Alberta, Fac Rehabil Med, Edmonton, AB, Canada. [Bohle, George, III] Mem Sloan Kettering Canc Ctr, Maxillofacial Prosthet Training Program, New York, NY 10021 USA. [Harris, Jeffrey] Univ Alberta, Adv Head & Neck Oncol & Microvasc Reconstruct Pro, Edmonton, AB, Canada. [Seikaly, Hadi] Univ Alberta, Fac Med, Edmonton, AB, Canada. [Seikaly, Hadi] Univ Alberta, Div Otolaryngol Head & Neck Surg, Edmonton, AB, Canada. [Huryn, Joseph] Mem Sloan Kettering Canc Ctr, Dent Serv, New York, NY 10021 USA.
+Rieger, J (corresponding author), Misericordia Hosp, Inst Reconstruct Sci Med, 16940-87 Ave, Edmonton, AB T5R 4H5, Canada.
+jana.rieger@ualberta.ca
+AN  - WOS:000272556500004
+AU  - Rieger, J.
+AU  - Bohle, G.
+AU  - Huryn, J.
+AU  - Tang, J. L.
+AU  - Harris, J.
+AU  - Seikaly, H.
+DA  - Nov-Dec
+IS  - 6
+J2  - Int. J. Prosthodont.
+KW  - forearm free-flap
+uvulopalatal flap
+resection
+Dentistry, Oral Surgery & Medicine
+L1  - internal-pdf://2006811972/Rieger-2009-Surgical Reconstruction Versus Pro.pdf
+LA  - English
+M3  - Article
+N1  - ISI Document Delivery No.: 529YW
+Times Cited: 21
+Cited Reference Count: 20
+Rieger, Jana Bohle, George, III Huryn, Joseph Tang, Judith Lam Harris, Jeffrey Seikaly, Hadi
+Rieger, Jana/0000-0002-3906-316X; Huryn, Joseph/0000-0002-7130-6264
+Memorial Sloan Kettering Cancer Center Dental Service Research; Alberta Heritage Foundation for Medical ResearchAlberta Heritage Foundation for Medical ResearchGeneral Electric
+This work was supported by the Memorial Sloan Kettering Cancer Center Dental Service Research Fund and the Alberta Heritage Foundation for Medical Research.
+22
+0
+6
+Quintessence publishing co inc
+Hanover park
+PY  - 2009
+SN  - 0893-2174
+SP  - 566-572
+ST  - Surgical Reconstruction Versus Prosthetic Obturation of Extensive Soft Palate Defects: A Comparison of Speech Outcomes
+T2  - International Journal of Prosthodontics
+TI  - Surgical Reconstruction Versus Prosthetic Obturation of Extensive Soft Palate Defects: A Comparison of Speech Outcomes
+UR  - <Go to ISI>://WOS:000272556500004
+VL  - 22
+ID  - 2079
+ER  - 
+
+TY  - JOUR
+AB  - This clinical report presents an implant-retained obturator overdenture solution for a Prosthodontic Diagnostic Index Class IV maxillectomy patient with a large oronasal communication and severe facial asymmetry, loss of upper lip and midfacial support, severe impairment of mastication, deglutition, phonetics, and speech intelligibility. Due to insufficient bone support to provide satisfactory zygomaticus implant anchorage, conventional implants were placed in the body of the left zygomatic arch and in the right maxillary tuberosity. Using a modified impression technique, a cobalt-chromium alloy framework with three overdenture attachments was constructed to retain a complete maxillary obturator. Patient-reported functional and quality of life measure outcomes were dramatically improved after treatment and at the two-year follow-up.
+AD  - School of Dentistry, Federal University of Goiás, Goiânia, Brazil. crleles@odonto.ufg.br
+AN  - 20040025
+AU  - Leles, C. R.
+AU  - Leles, J. L.
+AU  - de Paula Souza, C.
+AU  - Martins, R. R.
+AU  - Mendonça, E. F.
+DA  - Apr
+DO  - 10.1111/j.1532-849X.2009.00545.x
+DP  - NLM
+ET  - 20091216
+IS  - 3
+KW  - Adult
+Chromium Alloys/chemistry
+Dental Implants
+Dental Prosthesis Design
+*Dental Prosthesis, Implant-Supported
+Denture Design
+Denture Retention/instrumentation
+*Denture, Complete, Upper
+*Denture, Overlay
+Esthetics, Dental
+Facial Asymmetry/therapy
+Female
+Follow-Up Studies
+Humans
+Maxilla/*surgery
+Nose Diseases/therapy
+Oral Fistula/therapy
+*Palatal Obturators
+Quality of Life
+Respiratory Tract Fistula/therapy
+Treatment Outcome
+Zygoma/surgery
+L1  - internal-pdf://2953234494/Leles-2010-Implant-supported obturator overden.pdf
+LA  - eng
+N1  - 1532-849x
+Leles, Cláudio Rodrigues
+Leles, José Luiz Rodrigues
+de Paula Souza, Carlos
+Martins, Rafael Ragonezi
+Mendonça, Elismauro Francisco
+Case Reports
+Journal Article
+United States
+2009/12/31
+J Prosthodont. 2010 Apr;19(3):240-4. doi: 10.1111/j.1532-849X.2009.00545.x. Epub 2009 Dec 16.
+PY  - 2010
+SN  - 1059-941x
+SP  - 240-4
+ST  - Implant-supported obturator overdenture for extensive maxillary resection patient: a clinical report
+T2  - J Prosthodont
+TI  - Implant-supported obturator overdenture for extensive maxillary resection patient: a clinical report
+UR  - https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1532-849X.2009.00545.x?download=true
+VL  - 19
+ID  - 1784
+ER  - 
+
+TY  - JOUR
+AB  - It has been reported that the levator veli palatini muscles of speakers with velopharyngeal incompetence tend to demonstrate muscle fatigue during speech. This study examined whether a speech aid prosthesis might reduce levator muscle fatigue in such speakers. Eight individuals with post-surgical cleft palates, and who wore a speech aid prosthesis, were studied. Each person was asked to pronounce the syllable [pu] more than 50 times. Mean power frequency (MPF) of one syllable was obtained from electromyographic data from the levator muscle. The MPF regression line was calculated during the course of syllable repetition. The absolute values of the slopes of the regression lines with the prosthesis were significantly smaller than those without the prosthesis. It was shown that the prosthesis reduced the decrease in MPF during speech. These results suggested that speech aid prostheses reduce levator muscle fatigue during speech in persons with velopharyngeal incompetence.
+AD  - K. Nohara, Division for Oral and Facial Disorders, Osaka University Dental Hospital, 1-8 Yamada-oka, Suita-city, Osaka, 565-0871, Japan
+AU  - Nohara, K.
+AU  - Kotani, Y.
+AU  - Sasao, Y.
+AU  - Ojima, M.
+AU  - Tachimura, T.
+AU  - Sakai, T.
+DB  - Medline
+DO  - 10.1177/0022034509359483
+IS  - 5
+KW  - glass fiber
+adolescent
+article
+child
+cleft lip
+cleft palate
+comparative study
+electromyography
+female
+human
+devices
+male
+muscle fatigue
+nasopharynx
+palate
+palatopharyngeal incompetence
+pathophysiology
+phonation
+phonetics
+physiology
+speech
+speech therapy
+time
+L1  - internal-pdf://0950390868/Nohara-2010-Effect of a speech aid prosthesis.pdf
+LA  - English
+M3  - Article
+N1  - L358663867
+2011-04-08
+PY  - 2010
+SN  - 0022-0345
+1544-0591
+SP  - 478-481
+ST  - Effect of a speech aid prosthesis on reducing muscle fatigue
+T2  - Journal of Dental Research
+TI  - Effect of a speech aid prosthesis on reducing muscle fatigue
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L358663867&from=export
+http://dx.doi.org/10.1177/0022034509359483
+VL  - 89
+ID  - 1010
+ER  - 
+
+TY  - JOUR
+AB  - STATEMENT OF PROBLEM: Obstructive sleep apnea is the most frequent cause for insomnia in the populace. Snoring is mulled over as the potential factor that can lead the sequel to obstructive sleep apnea. Although the etiology and deterrence measures for snoring are yet to be undoubtedly clarified by our scientific sorority, various means of surgical corrections have been affirmed and put into practice, with a substantial degree of success. Despite this, it is implicit that a noninvasive method of managing obstructive sleep apnea is more relevant for overcoming this condition. PURPOSE: This manuscript intends to establish how snoring can be controlled prosthodontically by different modalities of scientifically defensible approaches. The most effective among the modalities was affirmed as the investigative analyses of the treatment outcomes with each modality. NOVEL METHODS: Four new methods of managing obstructive sleep apnea--uvula lift appliance, uvula and velopharynx lift appliance, nasopharyngeal aperture guard, and soft palate lift appliance were demonstrated through this article. CLINICAL REPORTS: The four new modalities stated and one conventional modality of mandibular advancement appliance for managing obstructive sleep apnea, a total of five types of appliance therapies, were described with case reports for each. INVESTIGATION: Five individuals undergoing the appliance therapy were chosen for each modality. The treatment outcome with each modality was examined by analysis of clinical predictors and also by means of standard investigation, with nasal and oral endoscopic analyses. RESULT: Among the five types of appliance therapies, the nasopharyngeal aperture guard provided the best treatment outcome in terms of clinical predictors and endoscopic analyses. CONCLUSION: Nasopharyngeal aperture guard, the novel method stated in this article is the better modality for managing obstructive sleep apnea, among the five different appliance therapies.
+AD  - Department of Prosthodontics, SRM Dental College, Bharathy Saalai, Ramapuram, Chennai 600 089, India.
+AN  - 20427906
+AU  - Venkat, R.
+AU  - Gopichander, N.
+AU  - Vasantakumar, M.
+DA  - Jan-Mar
+DO  - 10.4103/0970-9290.62812
+DP  - NLM
+IS  - 1
+KW  - Airway Resistance
+Endoscopy
+Humans
+Mandibular Advancement/instrumentation
+Nasopharynx/physiopathology
+Occlusal Splints
+Polymethyl Methacrylate
+*Prostheses and Implants
+Sleep Apnea, Obstructive/*therapy
+Snoring/therapy
+Syndrome
+Uvula/physiopathology
+Velopharyngeal Insufficiency/therapy
+L1  - internal-pdf://1662981776/Venkat-2010-Four novel prosthodontic methods f.pdf
+LA  - eng
+N1  - 1998-3603
+Venkat, R
+Gopichander, N
+Vasantakumar, M
+Case Reports
+Comparative Study
+Evaluation Study
+Journal Article
+India
+2010/04/30
+Indian J Dent Res. 2010 Jan-Mar;21(1):44-8. doi: 10.4103/0970-9290.62812.
+PY  - 2010
+SN  - 0970-9290
+SP  - 44-8
+ST  - Four novel prosthodontic methods for managing upper airway resistance syndrome: an investigative analysis revealing the efficacy of the new nasopharyngeal aperture guard appliance
+T2  - Indian J Dent Res
+TI  - Four novel prosthodontic methods for managing upper airway resistance syndrome: an investigative analysis revealing the efficacy of the new nasopharyngeal aperture guard appliance
+UR  - https://www.ijdr.in/article.asp?issn=0970-9290;year=2010;volume=21;issue=1;spage=44;epage=48;aulast=Venkat
+VL  - 21
+ID  - 1793
+ER  - 
+
+TY  - JOUR
+AB  - The use of prosthetic devices for correction of velopharyngeal insufficiency (VPI) is an alternative treatment for patients with conditions that preclude surgery and for those individuals with a hypofunctional velopharynx (HV) with a poor prognosis for the surgical repair of VPI. Understanding the role and measuring the outcome of prosthetic treatment of velopharyngeal dysfunction requires the use of tools that allow for documenting pre- and post-treatment outcomes. Experimental openings in speech bulbs have been used for simulating VPI in studies documenting changes in aerodynamic, acoustic and kinematics aspects of speech associated with the use of palatal prosthetic devices. The use of nasometry to document changes in speech associated with experimental openings in speech bulbs, however, has not been described in the literature. OBJECTIVE: This single-subject study investigated nasalance and nasality at the presence of experimental openings drilled through the speech bulb of a patient with HV. MATERIAL AND METHODS: Nasometric recordings of the word "pato" were obtained under 4 velopharyngeal conditions: no-opening (control condition), no speech bulb, speech bulb with a 20 mm² opening, and speech bulb with 30 mm² opening. Five speech-language pathologists performed auditory-perceptual ratings while the subject read an oral passage under all conditions. RESULTS: Kruskal-Wallis test showed significant difference among conditions (p=0.0002), with Scheffé post hoc test indicating difference from the no-opening condition. CONCLUSION: The changes in nasalance observed after drilling holes of known sizes in a speech bulb suggest that nasometry reflect changes in transfer of sound energy related to different sizes of velopharyngeal opening.
+AD  - Institute of Language Studies, Linguistics Department, University of Campinas, Campinas, SP, Brazil. avelinylima@gmail.com
+AN  - 22230996
+AU  - Lima-Gregio, A. M.
+AU  - Marino, V. C.
+AU  - Pegoraro-Krook, M. I.
+AU  - Barbosa, P. A.
+AU  - Aferri, H. C.
+AU  - Dutka Jde, C.
+C2  - PMC3973463
+DA  - Nov-Dec
+DO  - 10.1590/s1678-77572011000600012
+DP  - NLM
+IS  - 6
+KW  - Adolescent
+Cleft Palate/physiopathology/*rehabilitation
+Female
+Humans
+Nasal Cavity/physiopathology
+*Palatal Obturators
+*Palate
+Phonetics
+Prosthesis Design/methods
+Reference Values
+Speech/*physiology
+Treatment Outcome
+Velopharyngeal Insufficiency/physiopathology/*rehabilitation
+Voice Quality/physiology
+L1  - internal-pdf://4146382462/Lima-Gregio-2011-Nasalance and nasality at exp.pdf
+LA  - eng
+N1  - 1678-7765
+Lima-Gregio, Aveliny Mantovan
+Marino, Viviane Cristina de Castro
+Pegoraro-Krook, Maria Inês
+Barbosa, Plinio Almeida
+Aferri, Homero Carneiro
+Dutka, Jeniffer de Cassia Rillo
+Case Reports
+Journal Article
+2012/01/11
+J Appl Oral Sci. 2011 Nov-Dec;19(6):616-22. doi: 10.1590/s1678-77572011000600012.
+PY  - 2011
+SN  - 1678-7757 (Print)
+1678-7757
+SP  - 616-22
+ST  - Nasalance and nasality at experimental velopharyngeal openings in palatal prosthesis: a case study
+T2  - J Appl Oral Sci
+TI  - Nasalance and nasality at experimental velopharyngeal openings in palatal prosthesis: a case study
+UR  - https://www.scielo.br/j/jaos/a/Z5ZX9ZkG9FRQwp5BHQJ9gwD/?lang=en&format=pdf
+VL  - 19
+ID  - 1611
+ER  - 
+
+TY  - JOUR
+AB  - Cancer resection is the most common cause of acquired palatal defects, whereas cleft palate is the main cause of congenital defects. Palatal defect can be repaired by reconstructive surgery and/or a dental prosthesis. We present prosthodontic rehabilitation of two maxillary edentulous patients, one with a surgically induced palatal defect and the other with congenital cleft palate. In case 1, an 86-year-old man underwent surgical removal of soft-palate squamous cell carcinoma. The acquired palatal defect was repaired by a maxillary complete denture with a posteriorly extended speech bulb. The final prostheses provided good chewing and speech functions. In case 2, a congenital cleft palate in a 65-year-old man was repaired by a maxillary complete denture with superior extension of the obturator, which was designed to improve retention and stability of the upper single denture. He was satisfied with the upper denture after prosthesis placement. Conventional maxillary complete denture with a posteriorly extended speech bulb or modified obturator provides a good chance to restore oral functions in patients with palatal defects. The patients' skill and previous experience of denture wearing might have been important in their successful treatment. However, different patients present with unique problems and need to be treated individually. © 2011 Elsevier & Formosan Medical Association.
+AD  - F.-H. Lin, Department of Dentistry, National Taiwan University Hospital, 1 Chang-Te Street, Taipei, 10048, Taiwan
+AU  - Lin, F. H.
+AU  - Wang, T. C.
+DB  - Embase
+Medline
+DO  - 10.1016/S0929-6646(11)60019-3
+IS  - 2
+KW  - antifungal agent
+aged
+article
+case report
+cleft lip
+dental surgery
+denture
+disease duration
+edentulism
+histopathology
+human
+human tissue
+male
+mycosis
+obturator nerve
+physical examination
+rehabilitation care
+soft palate
+squamous cell carcinoma
+treatment outcome
+L1  - internal-pdf://1414829150/Lin-2011-Prosthodontic rehabilitation for eden.pdf
+LA  - English
+M3  - Article
+N1  - L361703705
+2011-05-11
+2011-05-17
+PY  - 2011
+SN  - 0929-6646
+SP  - 120-124
+ST  - Prosthodontic rehabilitation for edentulous patients with palatal defect: Report of two cases
+T2  - Journal of the Formosan Medical Association
+TI  - Prosthodontic rehabilitation for edentulous patients with palatal defect: Report of two cases
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L361703705&from=export
+http://dx.doi.org/10.1016/S0929-6646(11)60019-3
+VL  - 110
+ID  - 955
+ER  - 
+
+TY  - JOUR
+AB  - Background: There are different reports of the usefulness of the Nasometer (TM) as a complement to listening, often as correlation calculations between listening and nasalance measurements. Differences between findings have been attributed to listener experience and types of speech stimuli. Aims: To compare nasalance scores from the Nasometer with perceptual assessments, for the same and different Swedish speech stimuli, using three groups of listeners with differing levels of experience in judging speech nasality. Methods & Procedures: To compare nasalance scores and blinded listener ratings of randomized recordings using three groups of listeners and two groups of speakers. Speakers were either classified as having hypernasal speech or speech with typical speech resonance. Listeners were speechlanguage pathologists (SLPs) working predominantly with resonance disorders, other SLPs and untrained listeners. Outcomes & Results: Correlations (rs) between hypernasality ratings and nasalance scores for each listener group and speech stimuli were calculated. For both groups of SLPs all correlations between perceptual ratings and nasalance scores were significant at p= 0.01. The correlations between the nasalance scores and ratings by listeners in the SLP groups were higher than those for the untrained listener group regardless of stimulus type. Post-hoc MannWhitney U-tests showed that the only difference that was significant was expert SLP group versus untrained listener group. Secondly, correlations between perceptual ratings and oral stimulus nasalance scores were higher when the perceptual ratings were based on spontaneous speech rather than on the oral stimulus. However, a Wilcoxon signed rank test showed that the difference was not significant. A third finding was that correlations between oral stimulus nasalance scores and perceptual scores were higher than those between mixed stimulus nasalance scores and perceptual scores. A Wilcoxon signed rank test showed that the difference was significant. Conclusions & Implications: The Nasometer might be useful for the SLP with limited experience in assessing resonance disorders in differentiating between hyper- and hyponasality. With listener reliability for ratings of hypernasality still being an issue, the use of a nasalance score as a complement to the perceptual evaluation will also aid the expert SLP. It will give an alternative way of quantifying speech resonance and might help in especially hard to judge cases.
+AD  - [Brunnegard, Karin; van Doorn, Jan] Umea Univ, Dept Clin Sci, SE-90185 Umea, Sweden. [Lohmander, Anette] Karolinska Inst, Div Speech & Language Pathol, Dept Clin Sci Intervent & Technol, Stockholm, Sweden.
+Brunnegard, K (corresponding author), Umea Univ, Dept Clin Sci, SE-90185 Umea, Sweden.
+karin.brunnegard@logopedi.umu.se
+AN  - WOS:000308290900008
+AU  - Brunnegard, K.
+AU  - Lohmander, A.
+AU  - van Doorn, J.
+DA  - Sep-Oct
+DO  - 10.1111/j.1460-6984.2012.00165.x
+IS  - 5
+J2  - Int. J. Lang. Commun. Disord.
+KW  - nasality
+perceptual
+acoustics
+pharyngeal flap surgery
+cleft-palate
+velopharyngeal insufficiency
+listener judgments
+nasometric values
+dutch patients
+speech
+children
+resonance
+ratings
+Audiology & Speech-Language Pathology
+Linguistics
+Rehabilitation
+L1  - internal-pdf://3289099772/Brunnegard-2012-Comparison between perceptual.pdf
+LA  - English
+M3  - Article
+N1  - ISI Document Delivery No.: 999DZ
+Times Cited: 35
+Cited Reference Count: 45
+Brunnegard, Karin Lohmander, Anette van Doorn, Jan
+Brunnegård, Karin/AAP-7265-2020
+Brunnegård, Karin/0000-0002-1466-2959; Lohmander, Anette/0000-0003-0951-4908
+39
+0
+25
+Wiley
+Hoboken
+1460-6984
+PY  - 2012
+SN  - 1368-2822
+SP  - 556-566
+ST  - Comparison between perceptual assessments of nasality and nasalance scores
+T2  - International Journal of Language & Communication Disorders
+TI  - Comparison between perceptual assessments of nasality and nasalance scores
+UR  - <Go to ISI>://WOS:000308290900008
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1460-6984.2012.00165.x?download=true
+VL  - 47
+ID  - 2171
+ER  - 
+
+TY  - JOUR
+AB  - A child with microdeletion at 22q11.21 was referred to a craniofacial center due to hypernasality, unintelligible speech, and bifid uvula. Velopharyngeal dysfunction remained after surgical repair of submucous cleft palate and speech therapy. A prosthetic-behavioral treatment approach involving total obturation of the velopharynx was successfully implemented for management of velopharyngeal hypodynamism.
+AD  - HRAC-USP, Rua: Sílvio Marchione 3-20, 17012-900-Bauru, SP, Brazil. jdutka@usp.br
+AN  - 21417778
+AU  - Dutka Jde, C.
+AU  - Uemeoka, E.
+AU  - Aferri, H. C.
+AU  - Pegoraro-Krook, M. I.
+AU  - Marino, V. C.
+DA  - Jul
+DO  - 10.1597/09-240
+DP  - NLM
+ET  - 20110320
+IS  - 4
+KW  - Child
+Female
+Humans
+*Palatal Obturators
+Speech Therapy
+Velopharyngeal Insufficiency/*surgery
+L1  - internal-pdf://1635905385/Dutka Jde-2012-Total obturation of velopharynx.pdf
+LA  - eng
+N1  - 1545-1569
+Dutka, Jeniffer de Cássia Rillo
+Uemeoka, Erika
+Aferri, Homero Carneiro
+Pegoraro-Krook, Maria Inês
+Marino, Viviane Cristina de Castro
+Case Reports
+Journal Article
+United States
+2011/03/23
+Cleft Palate Craniofac J. 2012 Jul;49(4):488-93. doi: 10.1597/09-240. Epub 2011 Mar 20.
+PY  - 2012
+SN  - 1055-6656
+SP  - 488-93
+ST  - Total obturation of velopharynx for treatment of velopharyngeal hypodynamism: case report
+T2  - Cleft Palate Craniofac J
+TI  - Total obturation of velopharynx for treatment of velopharyngeal hypodynamism: case report
+VL  - 49
+ID  - 1815
+ER  - 
+
+TY  - JOUR
+AB  - The velopharynx is a tridimensional muscular valve located between the oral and nasal cavities, consisting of the lateral and posterior pharyngeal walls and the soft palate, and controls the passage of air. Velopharyngeal insufficiency may take place when the velopharyngeal valve is unable to perform its own closing, due to a lack of tissue or lack of proper movement. Treatment options include surgical correction, prosthetic rehabilitation, and speech therapy; though optimal results often require a multidisciplinary approach for the restoration of both anatomical and physiological defect. We report a case of 56 year old male patient presenting with hypernasal speech pattern and velopharyngeal insufficiency secondary to cleft palate which had been surgically corrected 18 years ago. The patient was treated with a combination of speech therapy and palatal lift prosthesis employing interim prostheses in various phases before the insertion of definitive appliance. This phase-wise treatment plan helped to improve patient's compliance and final outcome.
+AD  - Department of Prosthodontics, Saraswati Dental College and Hospital, Lucknow, Uttar Pradesh, India.
+AN  - 23236578
+AU  - Raj, N.
+AU  - Raj, V.
+AU  - Aeran, H.
+C2  - PMC3517964
+DA  - Nov
+DO  - 10.4047/jap.2012.4.4.243
+DP  - NLM
+ET  - 20121129
+IS  - 4
+KW  - Palatal lift prosthesis
+Speech therapy
+Velopharyngeal incompetence
+Velopharyngeal insufficiency
+L1  - internal-pdf://1984210012/Raj-2012-Interim palatal lift prosthesis as a.pdf
+LA  - eng
+N1  - 2005-7814
+Raj, Neerja
+Raj, Vineet
+Aeran, Himanshu
+Case Reports
+2012/12/14
+J Adv Prosthodont. 2012 Nov;4(4):243-7. doi: 10.4047/jap.2012.4.4.243. Epub 2012 Nov 29.
+PY  - 2012
+SN  - 2005-7806 (Print)
+2005-7806
+SP  - 243-7
+ST  - Interim palatal lift prosthesis as a constituent of multidisciplinary approach in the treatment of velopharyngeal incompetence
+T2  - J Adv Prosthodont
+TI  - Interim palatal lift prosthesis as a constituent of multidisciplinary approach in the treatment of velopharyngeal incompetence
+UR  - https://jap.or.kr/Synapse/Data/PDFData/0170JAP/jap-4-243.pdf
+VL  - 4
+ID  - 1603
+ER  - 
+
+TY  - JOUR
+AB  - This article describes the fabrication procedures to create a one-way valved speech bulb obturator. © 2012 by the American College of Prosthodontists.
+AD  - A.J. Sutton, 18615 Double Fork Rd, San Antonio, TX 78258, United States
+AU  - Sutton, A. J.
+AU  - Hansen, N. A.
+AU  - Myers, K. V.
+DB  - Medline
+DO  - 10.1111/j.1532-849X.2012.00894.x
+IS  - 8
+KW  - aged
+article
+breathing
+case report
+human
+larynx prosthesis
+male
+palatal obturator
+palatopharyngeal incompetence
+physiology
+prosthesis
+speech
+surface property
+swallowing
+tooth prosthesis
+L1  - internal-pdf://1374344043/Sutton-2012-One-Way Valved Speech Bulb Obturat.pdf
+internal-pdf://3947361854/Sutton-2012-One-Way Valved Speech Bulb Obtura1.pdf
+LA  - English
+M3  - Article
+N1  - L52099333
+2014-01-07
+PY  - 2012
+SN  - 1059-941X
+1532-849X
+SP  - 634-637
+ST  - One-Way Valved Speech Bulb Obturator Using a Tracheoesophageal Prosthesis
+T2  - Journal of Prosthodontics
+TI  - One-Way Valved Speech Bulb Obturator Using a Tracheoesophageal Prosthesis
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L52099333&from=export
+http://dx.doi.org/10.1111/j.1532-849X.2012.00894.x
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1532-849X.2012.00894.x?download=true
+VL  - 21
+ID  - 803
+ER  - 
+
+TY  - JOUR
+AB  - Our study aimed to highlight the effectiveness of palatal lift prosthesis in patients with velopharyngeal insufficiency with previous operated cleft palate. This study was done undertaken January 2008 to December of 2009 in the Phoniatic unit of Alnoor Specialist Hospital, Makkah, Saudi Arabia. Ten patients of ≥ 8 years to ≤ 10 years of age, who had previously undergone surgery for cleft palate, with or without cleft lip, with no other systemic illness and normal intelligent quotient level, were selected and managed by palatal lift prosthesis. All the study subjects were subjected to auditory perceptual speech evaluation for assessment of the degree of hypernasality, compensatory articulator mechanisms, glottal and pharyngeal articulation, audible nasal emission, facial grimace and overall intelligibility of speech. Data were analyzed using SPSS version 16. The study included 10 subjects whose mean ± standard deviation of age was (8.9±0.9). On auditory speech perceptual evaluation after prosthesis application, significant improvement was found in glottal articulation 6 (85.7%), p=0.04, facial grimace 6 (85.7%) p=0.04, hyper nasality 10 (10%) p=0.008, and speech intelligibility 9 (90%) p=0.008. Young patients with repaired palatal cleft have significant improvement after application of palatal lift prosthesis. Copyright © 2013 by Academy of Sciences and Arts of Bosnia and Herzegovina.
+AD  - A.I. Aboloyoun, Faculty of Medicine, Assuit University, Egypt.
+AU  - Aboloyoun, A. I.
+AU  - Ghorab, S.
+AU  - Farooq, M. U.
+DB  - Medline
+DO  - 10.5644/ama2006-124.71
+IS  - 1
+KW  - article
+child
+cleft palate
+human
+methodology
+palate
+palatopharyngeal incompetence
+plastic surgery
+prostheses and orthoses
+Saudi Arabia
+treatment outcome
+L1  - internal-pdf://0945117276/Aboloyoun-2013-Palatal lifting prosthesis and.pdf
+LA  - English
+M3  - Article
+N1  - L370121779
+2013-11-01
+PY  - 2013
+SN  - 1840-2879
+SP  - 55-60
+ST  - Palatal lifting prosthesis and velopharyngeal insufficiency: preliminary report
+T2  - Acta medica academica
+TI  - Palatal lifting prosthesis and velopharyngeal insufficiency: preliminary report
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L370121779&from=export
+http://dx.doi.org/10.5644/ama2006-124.71
+https://www.ama.ba/index.php/ama/article/download/174/pdf_9
+VL  - 42
+ID  - 743
+ER  - 
+
+TY  - JOUR
+AB  - Treatment of cleft lip and palate patients often demand well-coordinated work of medical and dental specialists. In spite of surgical and orthodontic therapy, prosthetic rehabilitation is always necessary because of partial anadontia, maxillary hypoplasia and velopharyngeal dysfuction. The aim of the prosthetic treatment is to improve aesthetics, function and speech of the patients; however, factors like underdeveloped and collapsed maxillary arch, retrognathic maxilla and reduced alveolar ridge height make the treatment challenging. This clinical report describes an interdisciplinary approach for the management of cleft lip and palate patient associated with mutilated dentition. The prosthetic phase began along with orthodontic treatment to achieve sufficient space distribution, which was restored with fixed dental prosthesis to stabilise the achieved status of occlusion. Palatal lift prosthesis was fabricated to restore the velopharyngeal incompetency with an innovative technique using 'standard orthodontic expansion screw' to eliminate hypernasality, decrease intelligibility of speech and to aid in deglutition. © 2013 BMJ Publishing Group. All rights reserved.
+AD  - M. Ahmad, Department of Prosthodontics, Manipal College of Dental Sciences, Manipal, Karnataka, India
+AU  - Ahmad, M.
+AU  - Dhanasekar, B.
+AU  - Aparna, I. N.
+AU  - Naim, H.
+DB  - Embase
+Medline
+DO  - 10.1136/bcr-2013-200174
+KW  - article
+case report
+cleft lip
+clinical effectiveness
+clinical feature
+dysphagia
+female
+human
+mouth examination
+palatal lift prosthesis
+palatopharyngeal incompetence
+periodontal disease
+priority journal
+prosthesis
+relapse
+speech disorder
+speech therapy
+L1  - internal-pdf://0995706887/Ahmad-2013-An innovative technique to restore.pdf
+LA  - English
+M3  - Article
+N1  - L369397209
+2013-08-03
+2013-08-15
+PY  - 2013
+SN  - 1757-790X
+ST  - An innovative technique to restore velopharyngeal incompetency for a patient with cleft lip and palate
+T2  - BMJ Case Reports
+TI  - An innovative technique to restore velopharyngeal incompetency for a patient with cleft lip and palate
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L369397209&from=export
+http://dx.doi.org/10.1136/bcr-2013-200174
+https://casereports.bmj.com/content/2013/bcr-2013-200174
+ID  - 769
+ER  - 
+
+TY  - JOUR
+AB  - The aim of this study was to evaluate swallowing, speech and quality of life in patients undergoing surgery for malignant tumors involving soft palate. We performed a cross sectional study of 23 patients (aged 32-80 years), submitted to soft palate resection, free of disease for at least 1 year. Primary closure of the surgical defect was performed in 5 patients (21.7 %), adaptation of a palatal obturator prosthesis in 2 (8.7 %), myocutaneous flap in 5 (21.7 %), local flap in 2 (8.7 %) and microsurgical free flap in 9 (39.1 %). All patients were submitted to fibreoptic endoscopic evaluation and completed functional and quality of life questionnaires. Functional evaluation of swallowing showed higher prevalence of pooling of food in the nasopharynx in patients submitted to regional flap reconstruction or primary closure (53.9 %). Swallowing difficulties were predominantly related to solid foods (54.5 %) and were associated with more extensive palatal resections. Most individuals submitted to reconstruction with microsurgical flaps had satisfactory velopharyngeal mobility (87 %). The presence of nasal air escape or velopharyngeal gap was minimal in most of the sample. Hypernasality contributed minimally to imprecisions in speech articulation or intelligibility. Vocal alteration did not impact patients' quality of life. Pharyngeal phase of swallowing was satisfactory in most patients. However, nasal reflux and penetration were present in a few patients. Most patients had minimal phono-articulatory alterations as a global outcome. Scores of swallowing and speech parameters regarding the questionnaires used were high, demonstrating minor impact on quality of life.
+AD  - Department of Speech Therapy, Hospital A. C. Camargo, São Paulo, Brazil.
+AN  - 22526573
+AU  - Barata, L. F.
+AU  - de Carvalho, G. B.
+AU  - Carrara-de Angelis, E.
+AU  - de Faria, J. C.
+AU  - Kowalski, L. P.
+DA  - Jan
+DO  - 10.1007/s00405-012-2006-7
+DP  - NLM
+ET  - 20120422
+IS  - 1
+KW  - Adult
+Aged
+Aged, 80 and over
+Cross-Sectional Studies
+Deglutition Disorders/*epidemiology
+Female
+Humans
+Male
+Middle Aged
+Palatal Neoplasms/pathology/*surgery
+Palate, Soft/pathology/*surgery
+*Quality of Life
+Speech Disorders/*epidemiology
+Surgical Flaps
+Surveys and Questionnaires
+Treatment Outcome
+L1  - internal-pdf://1918502651/Barata-2013-Swallowing, speech and quality of.pdf
+LA  - eng
+N1  - 1434-4726
+Barata, Lívia Fernandes
+de Carvalho, Genival Barbosa
+Carrara-de Angelis, Elisabete
+de Faria, José Carlos Marques
+Kowalski, Luiz Paulo
+Journal Article
+Germany
+2012/04/25
+Eur Arch Otorhinolaryngol. 2013 Jan;270(1):305-12. doi: 10.1007/s00405-012-2006-7. Epub 2012 Apr 22.
+PY  - 2013
+SN  - 0937-4477
+SP  - 305-12
+ST  - Swallowing, speech and quality of life in patients undergoing resection of soft palate
+T2  - Eur Arch Otorhinolaryngol
+TI  - Swallowing, speech and quality of life in patients undergoing resection of soft palate
+UR  - https://link.springer.com/content/pdf/10.1007/s00405-012-2006-7.pdf
+VL  - 270
+ID  - 1562
+ER  - 
+
+TY  - JOUR
+AB  - Objective. Test the Velopharyngeal Insufficiency (VPI) Effects on Life Outcomes (VELO) instrument for validity, reliability, and responsiveness. Study Design. Observational cohort. Setting. Academic tertiary medical center. Subjects. Children with VPI (n = 59) and their parents (n = 84) were prospectively enrolled from a pediatric VPI clinic. Methods. Pediatric speech language pathologists diagnosed VPI using perceptual speech analysis and rated VPI severity and speech intelligibility deficit (each as minimal, mild, moderate, or severe). All parents and youth 8+ years old (n = 24) completed the VELO instrument and other quality-oflife questionnaires at baseline; the first 40 subjects completed the VELO instrument again 2 weeks later. Treatments included Furlow palatoplasty (n = 20), sphincter pharyngoplasty (n = 14), or an obturator (n = 2), and 29 of 36 (81%) subjects completed the questionnaires 3 months posttreatment. VELO was tested with correlations for criterion validity against VPI severity, construct validity against speech intelligibility and velopharyngeal gap size, and concurrent validity against other quality-of-life measures (r > .40 demonstrating validity); for test-retest reliability using intraclass correlation (>.6 demonstrating reliability); and for responsiveness with the 3-month posttreatment measure using the paired t test. Results. Parental responses are reported; youth responses showed similar results. The VELO instrument did not meet criterion validity (r = -.18, P = .10), or functional construct validity (r = -.37, P = .001), but did meet anatomic construct and concurrent validity (each r > .50, P<.01). VELO scores demonstrated excellent test-retest reliability (r = .85, P < .001) and responsiveness (baseline 54 ± 14 to posttreatment 70 ± 18, P<.001). Conclusion. VELO provides a VPI-specific quality-of-life instrument that demonstrates concurrent validity, testretest reliability, and responsiveness to change in quality of life with treatment. © 2013 American Academy of Otolaryngology - Head and Neck Surgery Foundation.
+AD  - J.R. Skirko, Department of Otolaryngology, University of Washington, 1959 NE Pacific Street, Seattle, WA 98195-6515, United States
+AU  - Skirko, J. R.
+AU  - Weaver, E. M.
+AU  - Perkins, J. A.
+AU  - Kinter, S.
+AU  - Eblen, L.
+AU  - Sie, K. C. Y.
+DB  - Embase
+Medline
+DO  - 10.1177/0194599813486081
+IS  - 2
+KW  - adolescent
+adult
+article
+child
+cohort analysis
+concurrent validity
+construct validity
+criterion related validity
+disease severity
+female
+human
+major clinical study
+male
+observational study
+palatopharyngeal incompetence
+pharynx reconstruction
+preschool child
+prospective study
+quality of life
+questionnaire
+school child
+speech analysis
+speech intelligibility
+speech language pathologist
+test retest reliability
+L1  - internal-pdf://1264095060/Skirko-2013-Validity and responsiveness of VEL.pdf
+LA  - English
+M3  - Article
+N1  - L369820074
+2013-09-24
+PY  - 2013
+SN  - 0194-5998
+1097-6817
+SP  - 304-311
+ST  - Validity and responsiveness of VELO: A velopharyngeal insufficiency quality of life measure
+T2  - Otolaryngology - Head and Neck Surgery (United States)
+TI  - Validity and responsiveness of VELO: A velopharyngeal insufficiency quality of life measure
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L369820074&from=export
+http://dx.doi.org/10.1177/0194599813486081
+https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1177/0194599813486081?download=true
+VL  - 149
+ID  - 762
+ER  - 
+
+TY  - JOUR
+AB  - Velopharyngeal defects are common problem encountered in dentistry, different prosthetic designs can be used; however, the prosthesis should be comfortable and function properly. Surgical treatment is the treatment of choice, but there are few patients who are not able to receive the surgical intervention; in such cases prosthetic management is considered using speech bulb prosthesis to overcome nasal twang and nasal regurgitation. © 2013 BMJ Publishing Group. All rights reserved.
+AD  - S. Kumar, Department of Prosthodontics, BBD College of Dental Sciences, Lucknow, Uttar Pradesh, India
+AU  - Uphadhyay, M.
+AU  - Jain, D.
+AU  - Kumar, S.
+AU  - Uppal, S.
+DB  - Embase
+Medline
+DO  - 10.1136/bcr-2013-010102
+KW  - acrylic acid resin
+adult
+article
+case report
+cleft palate
+clinical feature
+equipment design
+female
+follow up
+health status
+human
+nasal regurgitation
+nose disease
+nose malformation
+outcome assessment
+palatopharyngeal incompetence
+priority journal
+speech production aid
+voice disorder
+L1  - internal-pdf://0619054081/Uphadhyay-2013-Speech aid prosthesis.pdf
+LA  - English
+M3  - Article
+N1  - L369607488
+2013-08-28
+2013-09-10
+PY  - 2013
+SN  - 1757-790X
+ST  - Speech aid prosthesis
+T2  - BMJ Case Reports
+TI  - Speech aid prosthesis
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L369607488&from=export
+http://dx.doi.org/10.1136/bcr-2013-010102
+https://casereports.bmj.com/content/2013/bcr-2013-010102
+ID  - 768
+ER  - 
+
+TY  - JOUR
+AB  - Background and Aims The head and neck cancer represents 5% of the total tumor pathologies and the most frequent cause is tobacco and alcohol abuse. The most common is oral squamous cell carcinoma (90% ). These tumors tend to be aggressive and with a high growth potential in areas where surgery leaves large consequences, both functionally and aesthetically and psychologically, that if not solved, quality of life of patients will decrease. A rewarding solution for rehabilitation in patients with maxillary defects are prosthetic obturators. Most tumors requieres either a partial or radical maxillectomy. The amount of soft palate included in ressections is variable and depends on the site and extension of the tumor. Postsurgical maxillary defects predispose the patients to hypernasal speech, fluid leakage into the nasal cavity, impaired masticatory function, and, in some patients, various degrees of cosmetic deformity. The oral disabilities, are minimized or eliminated almost immediately with obturation. The maxillary resection prostheses also reduces the cosmetic deformity by suppling the missing teeth and by properly supporting the upper lip and cheek. Methods Review of the literature apropos of a case report. Results Fifty year old patient who has an exophytic lesion in the right tonsillar region and lateroposterior oropharyngeal wall. After biopsy, injury T2N0 invasive squamous carcinoma was diagnosed. After the surgical resection, the patient has a defect in the soft palate and pharyngeal wall lateroposterior issue making a prosthetic obturator. Conclusions If there are teeth or alveolar ridge after the resection that provides support, stability and retention, for the obturator prostheses, then, surgical reconstruction should be reconsidered.
+AD  - R. Carles, Dentistry, University of Barcelona, Barcelona, Spain
+AU  - Carles, R.
+AU  - Álvar, R.
+AU  - Omar, K.
+AU  - Laia, G.
+AU  - Paul, C.
+AU  - Enric, J.
+AU  - José, L.
+DB  - Embase
+DO  - 10.1007/s00520-014-2222-3
+IS  - 1
+KW  - cosmetic
+human
+case report
+neoplasm
+obturator
+patient
+surgery
+maxilla
+deformity
+tooth
+prosthesis
+soft palate
+maxilla resection
+mouth squamous cell carcinoma
+hypernasality
+squamous cell carcinoma
+head and neck cancer
+pharynx
+alveolar ridge
+rehabilitation
+liquid
+alcohol abuse
+cheek
+upper lip
+quality of life
+tobacco
+disability
+plant leaf
+nose cavity
+biopsy
+injury
+pathology
+L1  - internal-pdf://3075096550/Carles-2014-Prosthetic obturator as alternativ.pdf
+LA  - English
+M3  - Conference Abstract
+N1  - L71501688
+2014-06-26
+PY  - 2014
+SN  - 0941-4355
+SP  - S47
+ST  - Prosthetic obturator as alternative treatment: A case report
+T2  - Supportive Care in Cancer
+TI  - Prosthetic obturator as alternative treatment: A case report
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L71501688&from=export
+http://dx.doi.org/10.1007/s00520-014-2222-3
+https://link.springer.com/content/pdf/10.1007/s00520-014-2222-3.pdf
+VL  - 22
+ID  - 686
+ER  - 
+
+TY  - JOUR
+AB  - Background/Purpose: Acoustic analysis is often used in speech evaluation but seldom for the evaluation of oral prostheses designed for reconstruction of surgical defect. This study aimed to introduce the application of acoustic analysis for patients with velopharyngeal insufficiency (VPI) due to oral surgery and rehabilitated with oral speech-aid prostheses. Methods: The pre- and postprosthetic rehabilitation acoustic features of sustained vowel sounds from two patients with VPI were analyzed and compared with the acoustic analysis software Praat. Results: There were significant differences in the octave spectrum of sustained vowel speech sound between the pre- and postprosthetic rehabilitation. Acoustic measurements of sustained vowels for patients before and after prosthetic treatment showed no significant differences for all parameters of fundamental frequency, jitter, shimmer, noise-to-harmonics ratio, formant frequency, F1 bandwidth, and band energy difference. The decrease in objective nasality perceptions correlated very well with the decrease in dips of the spectra for the male patient with a higher speech bulb height. Conclusion: Acoustic analysis may be a potential technique for evaluating the functions of oral speech-aid prostheses, which eliminates dysfunctions due to the surgical defect and contributes to a high percentage of intelligible speech. Octave spectrum analysis may also be a valuable tool for detecting changes in nasality characteristics of the voice during prosthetic treatment of VPI.
+AD  - S.-H. Hung, Department of Otolaryngology, Taipei Medical University Hospital, Number 252, Wu-Hsing Street, Taipei City, Taiwan
+AU  - Chang, Y. L.
+AU  - Hung, C. H.
+AU  - Chen, P. Y.
+AU  - Chen, W. C.
+AU  - Hung, S. H.
+DB  - Embase
+Medline
+DO  - 10.1016/j.jfma.2014.01.013
+IS  - 10
+KW  - acoustic analysis
+adult
+article
+case report
+comparative study
+evaluation study
+female
+human
+hypernasality
+male
+measurement
+middle aged
+nasality
+oral surgery
+palatopharyngeal incompetence
+speech
+speech production aid
+vowel
+L1  - internal-pdf://3218058969/Chang-2015-Preliminary study of acoustic analy.pdf
+LA  - English
+M3  - Article
+N1  - L53019646
+2014-02-26
+2015-10-16
+PY  - 2015
+SN  - 1876-0821
+0929-6646
+SP  - 950-958
+ST  - Preliminary study of acoustic analysis for evaluating speech-aid oral prostheses: Characteristic dips in octave spectrum for comparison of nasality
+T2  - Journal of the Formosan Medical Association
+TI  - Preliminary study of acoustic analysis for evaluating speech-aid oral prostheses: Characteristic dips in octave spectrum for comparison of nasality
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L53019646&from=export
+http://dx.doi.org/10.1016/j.jfma.2014.01.013
+VL  - 114
+ID  - 625
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Palatal lift appliances have a role in management of velopharyngeal dysfunction for immobile palates of adequate length where surgery is contraindicated. Conventional appliances involve acrylic/wire work adjustment over successive appointments until they can be tolerated without gagging. A novel appliance has been developed where the lifting plate is incrementally distalized by the patient and vertically adjusted to optimize soft palate positioning. METHOD: The design, construction, and utility of the appliance, which was developed in Dundee Dental Hospital, are described. PARTICIPANTS: The subject was a 12-year-old boy with a variant of Moebius syndrome and velopharyngeal dysfunction. Previous pharyngoplasty had been carried out and further surgery was contraindicated. INTERVENTIONS: The appliance is constructed and fitted and the flexible spring arm is vertically adjusted to lift the soft palate. The screw is turned incrementally at home, extending the lifting plate posteriorly. Videofluoroscopy allows visualization of the appliance and soft palate positioning. MAIN OUTCOME MEASURES/RESULTS: The procedure improved soft palate positioning, as demonstrated by videofluoroscopy, and objective speech outcomes. CONCLUSIONS: The appliance was well tolerated and led to improved speech outcomes for the patient. Adjustments were quick and easy for both clinician and patient. Further studies are needed to definitively determine the efficacy of the appliance.
+AN  - 24605929
+AU  - Greene, L. E.
+AU  - Wilson, K.
+AU  - McIntyre, G.
+AU  - Wilson, J.
+AU  - Mehendale, F. V.
+DA  - Jan
+DO  - 10.1597/12-311
+DP  - NLM
+IS  - 1
+KW  - Child
+Cleft Palate/*therapy
+Humans
+Male
+Mobius Syndrome/surgery/*therapy
+Palate, Soft
+*Prostheses and Implants
+Prosthesis Design
+Retreatment
+Speech Production Measurement
+Velopharyngeal Insufficiency/surgery/*therapy
+burden of care
+palatal lift
+patient-controlled appliance
+speech appliance
+velopharyngeal dysfunction
+videofluoroscopy
+L1  - internal-pdf://1562402336/Greene-2015-A novel patient-controlled bidirec.pdf
+LA  - eng
+N1  - 1545-1569
+Greene, L E
+Wilson, K
+McIntyre, G
+Wilson, J
+Mehendale, F V
+Case Reports
+Journal Article
+United States
+2014/03/13
+Cleft Palate Craniofac J. 2015 Jan;52(1):96-101. doi: 10.1597/12-311.
+PY  - 2015
+SN  - 1055-6656
+SP  - 96-101
+ST  - A novel patient-controlled bidirectional palatal lift appliance
+T2  - Cleft Palate Craniofac J
+TI  - A novel patient-controlled bidirectional palatal lift appliance
+VL  - 52
+ID  - 1650
+ER  - 
+
+TY  - JOUR
+AB  - A 67-year-old-male patient visited our hospital for a mass on the soft palate of approximately 5.0 × 6.0  cm in size. He was diagnosed with adenoid cystic carcinoma and reconstruction after total palate resection was planned. After ablative surgery, a radial forearm free flap procedure was successfully performed to cover the hard and soft palates. However, wound disruption occurred twice during the postoperative period. When a palate defect is reconstructed using a soft tissue free flap, flap drooping by gravitation and the flap itself can generate irregularity in the lower contour of the palate and, in the long-term, insufficiencies of velopharyngeal function, speech, and mastication. To complement such functional and aesthetic problems caused by flap drooping, conventional prosthetics and new operative techniques have been discussed. However, overcoming wound disruption caused by flap drooping in the acute postoperative period has not been discussed. In this case, the temporary use of a palatal obturator during the postoperative period was beneficial after soft tissue reconstruction of the palate.
+AD  - *Department of Plastic Surgery, SMG-SNU Boramae Medical Center, Seoul, Republic of Korea †Department of Otorhinolaryngology, Head and Neck Surgery, SMG-SNU Boramae Medical Center, Seoul, Republic of Korea ‡Department of Plastic and Reconstructive Surgery, College of Medicine, Seoul National University, Seoul, Republic of Korea.
+AN  - 26114541
+AU  - Jeong, E. C.
+AU  - Jung, Y. H.
+AU  - Shin, J. Y.
+DA  - Jul
+DO  - 10.1097/scs.0000000000001856
+DP  - NLM
+IS  - 5
+KW  - Aged
+Bone Transplantation/*methods
+Carcinoma, Adenoid Cystic/surgery
+Fascia/*transplantation
+Forearm/surgery
+Free Tissue Flaps/*transplantation
+Humans
+Male
+Mastication/physiology
+Palatal Neoplasms/surgery
+*Palatal Obturators
+Palate/*surgery
+Palate, Hard/surgery
+Palate, Soft/surgery
+Postoperative Complications
+Prolapse
+Reconstructive Surgical Procedures/*methods
+Skin Transplantation/*methods
+Surgical Wound Dehiscence/etiology
+Transplant Donor Site/surgery
+L1  - internal-pdf://0915256190/Jeong-2015-Use of Postoperative Palatal Obtura.pdf
+LA  - eng
+N1  - 1536-3732
+Jeong, Euicheol C
+Jung, Young Ho
+Shin, Jin-yong
+Case Reports
+Journal Article
+United States
+2015/06/27
+J Craniofac Surg. 2015 Jul;26(5):e383-5. doi: 10.1097/SCS.0000000000001856.
+PY  - 2015
+SN  - 1049-2275
+SP  - e383-5
+ST  - Use of Postoperative Palatal Obturator After Total Palatal Reconstruction With Radial Forearm Fasciocutaneous Free Flap
+T2  - J Craniofac Surg
+TI  - Use of Postoperative Palatal Obturator After Total Palatal Reconstruction With Radial Forearm Fasciocutaneous Free Flap
+VL  - 26
+ID  - 1634
+ER  - 
+
+TY  - JOUR
+AB  - Surgical resection of soft palate due to cancer affects the effective functioning of the velopharyngeal mechanism (speech and deglutition). With the loss of speech intelligibility, hyper resonance in voice and impaired function of swallowing (due to nasal regurgitation), there is a depreciation in the quality of life of such an individual. In a multidisciplinary setup, the role of a prosthodontist has been described to rehabilitate such patients by fabrication of speech aid prosthesis. The design and method of fabrication of the prosthesis are simple and easy to perform. The use of prosthesis, together with training (of speech) by a speech pathologist resulted in improvement in speech. Furthermore, an improvement in swallowing had been noted, resulting in an improved nutritional intake and general well-being of an individual. The take-home message is that in the treatment of oral cancer, feasible, and rapid rehabilitation should be endeavored in order to make the patient socially more acceptable. The onus lies on the prosthodontist to practise the same in a rapid manner before the moral of the patient becomes low due to the associated stigma of cancer.
+AD  - Department of Prosthodontics, Maulana Azad Institute of Dental Sciences, New Delhi, India.
+AN  - 26929526
+AU  - Nanda, A.
+AU  - Koli, D.
+AU  - Sharma, S.
+AU  - Suryavanshi, S.
+AU  - Verma, M.
+C1  - Conflict of Interest: None declared.
+C2  - PMC4762331
+DA  - Jul-Sep
+DO  - 10.4103/0972-4052.161573
+DP  - NLM
+IS  - 3
+KW  - Multidisciplinary
+oncology
+prosthodontist
+speech aid
+velopharyngeal defect
+L1  - internal-pdf://1662739668/Nanda-2015-Alleviating speech and deglutition_.pdf
+LA  - eng
+N1  - 1998-4057
+Nanda, Aditi
+Koli, Dheeraj
+Sharma, Sunanda
+Suryavanshi, Shalini
+Verma, Mahesh
+Case Reports
+2016/03/02
+J Indian Prosthodont Soc. 2015 Jul-Sep;15(3):281-3. doi: 10.4103/0972-4052.161573.
+PY  - 2015
+SN  - 0972-4052 (Print)
+0972-4052
+SP  - 281-3
+ST  - Alleviating speech and deglutition: Role of a prosthodontist in multidisciplinary management of velopharyngeal insufficiency
+T2  - J Indian Prosthodont Soc
+TI  - Alleviating speech and deglutition: Role of a prosthodontist in multidisciplinary management of velopharyngeal insufficiency
+VL  - 15
+ID  - 1608
+ER  - 
+
+TY  - JOUR
+AB  - Velopharyngeal dysfunction in cleft palate patients following the primary palate repair may result in nasal air emission, hypernasality, articulation disorder and poor intelligibility of speech. Among conservative treatment methods, speech aid prosthesis combined with speech therapy is widely used method. However because of its long time of treatment more than a year and low predictability, some clinicians prefer a surgical intervention. Thus, the purpose of this report was to increase an attention on the effectiveness of speech aid prosthesis by introducing a case that was successfully treated. In this clinical report, speech bulb reduction program with intensive speech therapy was applied for a patient with velopharyngeal dysfunction and it was rapidly treated by 5months which was unusually short period for speech aid therapy. Furthermore, advantages of pre-operative speech aid therapy were discussed.
+AD  - Department of Language Therapy, Howon University, Howondae-3gil, Leempi-myun, Gunsan, 573-718 Jeollabuk-do Korea. GRID: grid.443792.f. ISNI: 0000000406475445
+Department of Oral and Maxillofacial Surgery, School of Dentistry, Research Institute of Clinical Medicine of Chonbuk National University-Biomedical Research Institute of Chonbuk National University Hospital, Geonjiro-20 Deokjin-gu, Jeonju, 561-712 Jeollabuk-do Korea.
+AN  - 26258115
+AU  - Shin, Y. J.
+AU  - Ko, S. O.
+C2  - PMC4525334
+DA  - Dec
+DO  - 10.1186/s40902-015-0022-4
+DP  - NLM
+ET  - 20150806
+IS  - 1
+KW  - Speech aid prosthesis
+Speech bulb
+Speech therapy
+Vpd
+Vpi
+Velopharyngeal dysfunction
+Velopharyngeal incompetence
+Velopharyngeal insufficiency
+L1  - internal-pdf://2807744404/Shin-2015-Successful and rapid response of spe.pdf
+LA  - eng
+N1  - 2288-8586
+Shin, Yu-Jeong
+Ko, Seung-O
+Case Reports
+2015/08/11
+Maxillofac Plast Reconstr Surg. 2015 Aug 6;37(1):22. doi: 10.1186/s40902-015-0022-4. eCollection 2015 Dec.
+PY  - 2015
+SN  - 2288-8101 (Print)
+2288-8101
+SP  - 22
+ST  - Successful and rapid response of speech bulb reduction program combined with speech therapy in velopharyngeal dysfunction: a case report
+T2  - Maxillofac Plast Reconstr Surg
+TI  - Successful and rapid response of speech bulb reduction program combined with speech therapy in velopharyngeal dysfunction: a case report
+UR  - https://jkamprs.springeropen.com/counter/pdf/10.1186/s40902-015-0022-4.pdf
+VL  - 37
+ID  - 1656
+ER  - 
+
+TY  - JOUR
+AB  - Objective To present the first documented series of patients with negative dystonia (ND) of the palate, including clinical symptoms, functional MRI findings, and management options. Study Design Case series ascertained from clinical research centers that evaluated patients with both hyperkinetic and hypokinetic movement disorders. Methods Between July 1983 and March 2013, data was collected on patient demographics, disease characteristics, functional MRI findings, long-term management options, and outcomes. We sought patients whose clinical examination demonstrated absent palatal movement on speaking, despite normal palatal activity on other activities. Results Five patients (2 males, 3 females) met clinical criteria. All patients presented with hypernasal speech without associated dysphagia. Clinical examination revealed absent palatal movement on speaking despite intact gag reflexes, normal palate elevation on swallowing, and normal cranial nerve examinations. Other cranial and/or limb dystonias were present in four patients (80.0%). Three patients (60.0%) had previously failed oral pharmacologic therapy. Two patients underwent functional magnetic resonance imaging (fMRI) studies, which demonstrated an overall decrease of cortical and subcortical activation during production of symptomatic syllables and asymptomatic coughing. Management included speech therapy (all patients) and palatal lift (2 patients) with limited improvement. Calcium hydroxyapatite injection (1 patient) into the soft palate and Passavants' ridge was beneficial. Conclusions This is the first report of ND of the palate. Characteristic findings were task-specific absent palatal movement with speech, despite normal movement on swallowing, coughing, and an intact gag reflex, as well as disorder-specific decreased brain activation on functional MRI. A diagnosis of ND of the palate should be considered for patients who present with hypernasal speech.
+AD  - C.F. Sinclair, Department of Otolaryngology, Icahn School of Medicine at Mount Sinai, Mount Sinai Icahn School of Medicine, 425 West 59th Street, New York, NY, United States
+AU  - Sinclair, C. F.
+AU  - Simonyan, K.
+AU  - Brin, M. F.
+AU  - Blitzer, A.
+C1  - radiesse(Merz Aesthetics,United States)
+C2  - Merz Aesthetics(United States)
+DB  - Embase
+Medline
+DO  - 10.1002/lary.25165
+IS  - 6
+KW  - baclofen
+botulinum toxin A
+carbamazepine
+carbidopa plus levodopa
+clonazepam
+dopamine receptor stimulating agent
+gabapentin
+haloperidol
+hydroxyapatite
+lamotrigine
+sertraline
+trihexyphenidyl
+venlafaxine
+adult
+aged
+article
+clinical article
+clinical evaluation
+clinical examination
+clinical feature
+clinical research
+controlled study
+coughing
+cranial dystonia
+demography
+diagnostic test accuracy study
+disease course
+lack of drug effect
+dystonic disorder
+female
+functional magnetic resonance imaging
+functional neuroimaging
+gag reflex
+general condition improvement
+human
+hyperkinesia
+hypernasality
+hypokinesia
+limb dystonia
+male
+medical record review
+middle aged
+negative dystonia of the palate
+nuclear magnetic resonance scanner
+palatal obturator
+palate
+palate disease
+priority journal
+reflex
+retrospective study
+soft palate
+speech therapy
+swallowing
+treatment outcome
+treatment response
+young adult
+radiesse
+3.0 Tesla
+L1  - internal-pdf://2740693089/Sinclair-2015-Negative dystonia of the palate_.pdf
+LA  - English
+M3  - Article
+N1  - L602105179
+2015-02-13
+2015-06-08
+PY  - 2015
+SN  - 1531-4995
+0023-852X
+SP  - 1426-1432
+ST  - Negative dystonia of the palate: A novel entity and diagnostic consideration in hypernasal speech
+T2  - Laryngoscope
+TI  - Negative dystonia of the palate: A novel entity and diagnostic consideration in hypernasal speech
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L602105179&from=export
+http://dx.doi.org/10.1002/lary.25165
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lary.25165?download=true
+VL  - 125
+ID  - 630
+ER  - 
+
+TY  - JOUR
+AB  - Objectives (1) To define the minimal clinically important difference (MCID) of the Velopharyngeal Insufficiency (VPI) Effects on Life Outcomes (VELO) instrument, and (2) to test for the change in quality of life (QOL) after VPI surgery. Study Design Prospective observational cohort. Setting VPI clinic at a tertiary pediatric medical center. Subjects and Methods Children with VPI and their parents completed the VELO instrument (higher score is better QOL) at enrollment and then underwent VPI surgery (Furlow palatoplasty or sphincter pharyngoplasty, n = 32), other treatments (obturator or oronasal fistula repair, n = 7), or no treatment (n = 18). They completed the VELO instrument again and an instrument of global rating of change in QOL at 1 year. The MCID was anchored to the global change instrument scores corresponding to "a little" or "somewhat" better. Within-group (paired t test) and between-group (Student t test) changes in VELO scores were tested for the VPI surgery and no treatment groups. The association between treatment group and change in VELO scores was tested with multivariate linear regression, adjusting for confounders. Results Follow-up was obtained for 37 of 57 (65%) patients. The mean (±standard deviation) change in VELO scores corresponding to the MCID anchor was 15 ± 13. The VELO score improved significantly more in the VPI surgery group (change, 22 ± 15; P <.001) than in the no treatment group (change, 9 ± 12; P =.04), after adjusting for confounders (P =.007 between groups). Conclusion VPI surgery using the Furlow palatoplasty or sphincter pharyngoplasty improves VPI-specific QOL, and the improvement is clinically important.
+AD  - K.C.Y. Sie, Division of Pediatric Otolaryngology-Head and Neck Surgery, Seattle Children's Hospital, Department of Surgery, 4800 Sand Point Way Northeast, Seattle, WA, United States
+AU  - Skirko, J. R.
+AU  - Weaver, E. M.
+AU  - Perkins, J. A.
+AU  - Kinter, S.
+AU  - Eblen, L.
+AU  - Martina, J.
+AU  - Sie, K. C. Y.
+DB  - Embase
+Medline
+DO  - 10.1177/0194599815591159
+IS  - 5
+KW  - child
+conference paper
+controlled study
+face validity
+female
+follow up
+human
+major clinical study
+male
+observational study
+palatopharyngeal incompetence
+palatoplasty
+pharynx reconstruction
+preschool child
+prospective study
+quality of life
+quality of life assessment
+reliability
+self report
+throat surgery
+validity
+Velopharyngeal Insufficiency Effects on Life Outcome
+L1  - internal-pdf://1947346619/Skirko-2015-Change in Quality of Life with Vel.pdf
+LA  - English
+M3  - Conference Paper
+N1  - L606755738
+2015-11-10
+2015-11-12
+PY  - 2015
+SN  - 1097-6817
+0194-5998
+SP  - 857-864
+ST  - Change in Quality of Life with Velopharyngeal Insufficiency Surgery
+T2  - Otolaryngology - Head and Neck Surgery (United States)
+TI  - Change in Quality of Life with Velopharyngeal Insufficiency Surgery
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L606755738&from=export
+http://dx.doi.org/10.1177/0194599815591159
+https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1177/0194599815591159?download=true
+VL  - 153
+ID  - 587
+ER  - 
+
+TY  - JOUR
+AB  - Velopharyngeal insufficiency is an anatomic defect of the soft palate making palatopharyngeal sphincter incomplete. It is an important concern to address in patients with bilateral cleft lip and palate. Speech aid prosthesis or speech bulbs are best choice in cases where surgically repaired soft palate is too short to contact pharyngeal walls during function but these prosthesis have been associated with inadequate marginal closure, ulcerations and patient discomfort. Here is a case report of untreated bilateral cleft lip and palate associated with palatal insufficiency treated by means of palate friendly innovative speech bulb. This modified speech bulb is a combination of hard acrylic and soft lining material. The hard self-curing acrylic resin covers only the hard palate area and a permanent soft silicone lining material covering the soft palate area. A claw-shaped wire component was extended backwards from acrylic and was embedded in soft silicone to aid in retention and approximation of two materials. The advantage of adding the soft lining material in posterior area helped in covering the adequate superior extension and margins for maximal pharyngeal activity. This also improved the hypernasality, speech, comfort and overall patient acceptance.
+AD  - S.S. Kahlon, 234-Medical Enclave Circular Road, Sri Amritsar, Punjab, India
+AU  - Kahlon, S. S.
+AU  - Kahlon, M.
+AU  - Gupta, S.
+AU  - Dhingra, P. S.
+DB  - Embase
+DO  - 10.7860/JCDR/2016/18993.8464
+IS  - 9
+KW  - polyacrylic acid
+silicone
+adolescent
+article
+case report
+cleft lip palate
+dysphagia
+equipment design
+human
+hypernasality
+male
+coating (procedure)
+palatopharyngeal incompetence
+patient attitude
+soft palate
+speech disorder
+speech production aid
+velopharyngeal sphincter
+L1  - internal-pdf://1012502954/Kahlon-2016-The soft palate friendly speech bu.pdf
+LA  - English
+M3  - Article
+N1  - L612035628
+2016-09-15
+2016-09-21
+PY  - 2016
+SN  - 0973-709X
+2249-782X
+SP  - ZD01-ZD02
+ST  - The soft palate friendly speech bulb for velopharyngeal insufficiency
+T2  - Journal of Clinical and Diagnostic Research
+TI  - The soft palate friendly speech bulb for velopharyngeal insufficiency
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L612035628&from=export
+http://dx.doi.org/10.7860/JCDR/2016/18993.8464
+VL  - 10
+ID  - 516
+ER  - 
+
+TY  - JOUR
+AB  - Purpose: This study was designed to investigate the effect of palatal lift prosthesis (PLP) on the speech of individuals with different types of dysarthria. Participants: Thirty (19 males and 11 females) native speakers of Jordanian Arabic with dysarthria participated in the study. The age of the participants ranged from 8 to 67 years with an average of 34.1 years. Traumatic brain injury was the most common etiology of dysarthria among 12 participants, stroke among 11, multiple sclerosis among 3, and pseudobulbar palsy among 2; 1 participant had Parkinson disease, and another participant had amyotrophic lateral sclerosis. Methods: Five acoustic and aerodynamic measures were evaluated to determine the speech outcomes including nasalance scores, sequential motion rate, speech rate, vital capacity, and sound pressure level. The acoustic measures were obtained from the participants in PLP-out and PLP-in conditions. Results: Results showed statistically significant decrease in the nasalance scores of the syllable repetition, vowel prolongation, and sentence repetition tasks in the PLP-in condition below the 28% cutoff score. Furthermore, results revealed statistically significant increase in sequential motion rate, speech rate, vital capacity, and sound pressure level (P = 0.000). Conclusion: The use of PLP is an effective treatment option of dysarthric speech. Besides nasalance scores, the sequential motion rate, speech rate, vital capacity, and sound pressure level are considered reliable speech measures that may be used to evaluate the effect of PLP on dysarthria.
+AD  - [Alfwaress, Firas S. D.] Jordan Univ Sci & Technol, Dept Rehabil Sci, Fac Appl Med Sci, POB 3030, Irbid 22110, Jordan. [Bibars, Abdel Rahim] Jordan Univ Sci & Technol, Fac Appl Med Sci, Dept Appl Dent Technol, Irbid, Jordan. [Hamasha, Abedelhadi; Al Maaitah, Emad] Jordan Univ Sci & Technol, Dept Prevent Dent, Fac Dent, Irbid, Jordan.
+fsalfwaress@just.edu.jo
+AN  - WOS:000392299200009
+AU  - Alfwaress, F. S. D.
+AU  - Bibars, A. R.
+AU  - Hamasha, A.
+AU  - Al Maaitah, E.
+DA  - Jan
+DO  - 10.1097/scs.0000000000003167
+IS  - 1
+J2  - J. Craniofac. Surg.
+KW  - Dysarthria
+hypernasality
+palatal lift prosthesis
+amyotrophic-lateral-sclerosis
+velopharyngeal incompetence
+nasalance
+scores
+management
+palatoplasty
+Surgery
+L1  - internal-pdf://0601385644/Alfwaress-2017-Outcomes of Palatal Lift Prosth.pdf
+LA  - English
+M3  - Article
+N1  - ISI Document Delivery No.: EI2EJ
+Times Cited: 8
+Cited Reference Count: 28
+Alfwaress, Firas S. D. Bibars, Abdel Rahim Hamasha, Abedelhadi Al Maaitah, Emad
+Hamasha, Abed Al-Hadi/ABE-4693-2020; Alfwaress, Firas/AAV-3452-2020; Bibars, Abdel Rahim/S-6866-2016
+Hamasha, Abed Al-Hadi/0000-0001-9597-4104; Alfwaress, Firas/0000-0002-6817-0570; Bibars, Abdel Rahim/0000-0002-1810-8402; Al Maaitah, Emad/0000-0002-2144-4167
+Scientific Research Support Fund at the Ministry of Higher Education & Scientific Research, Jordan [Mph/1/5/2012]
+This work had been funded by the Scientific Research Support Fund at the Ministry of Higher Education & Scientific Research, Jordan, no. Mph/1/5/2012.
+10
+0
+7
+Lippincott williams & wilkins
+Philadelphia
+1536-3732
+PY  - 2017
+SN  - 1049-2275
+SP  - 30-35
+ST  - Outcomes of Palatal Lift Prosthesis on Dysarthric Speech
+T2  - Journal of Craniofacial Surgery
+TI  - Outcomes of Palatal Lift Prosthesis on Dysarthric Speech
+UR  - <Go to ISI>://WOS:000392299200009
+VL  - 28
+ID  - 2092
+ER  - 
+
+TY  - JOUR
+AB  - Background: Hypernasality is a frequently encountered problem in the speech of individuals with velopharyngeal incompetence. The use of palatal lift appliance (PLA) is the main treatment option for correction of velopharyngeal incompetence. The literature on the outcomes of using prosthetics treatment for Arabic speaking patients is scarce. Objective: The aim of this study was to investigate the effect of using PLA on hypernasality of Arabic speaking patients with velopharyngeal incompetence. Methods: Six participants with age ranging from 9 to 61 years (4 males and 2 females) were recruited between October 2013 and August 2014. Written informed consents were taken from all the adult participants/the guardians of under-aged participants. All patients exhibited hypernasality with different etiologies for velopharyngeal incompetence (head injury, cerebrovascular accident, and neurological disorders). They were treated with PLAs which were constructed to elevate the dysfunctional soft palate. Nasalance scores and perceptual speech acceptability ratings were measured/evaluated in both situations; with and without appliances. Paired t-test was used to analyze the perceptual ratings and nasalance scores in order to detect any significant change in hypernasality pre and post insertion of PLA. Results: There was a statistically significant decrease (p> 0.05) in nasalance scores (Pa, Pi, Ma, Mi, a, i) after PLA insertion. The subtest /u/ showed insignificant change (p=0.056). Perceptual ratings showed significant reduction in hypernasality which was consistent with nasalance measurements. Conclusion: PLAs can reduce hypernasality in Arabic speaking patients who suffer from velopharyngeal impairment.
+AD  - [Bibars, Abdel Rahim M.; Al-Hourani, Zeid A.] Jordan Univ Sci & Technol, Fac Appl Med Sci, Dept Appl Dent Sci, Irbid 22110, Jordan. [Alfwaress, Firas S. D.; Almhdawi, Khader] Jordan Univ Sci & Technol, Fac Appl Med Sci, Dept Rehabil Sci, Irbid, Jordan. [Hamasha, Abed Al-Hadi] Jordan Univ Sci & Technol, Fac Dent, Dept Prevent Dent, Irbid, Jordan.
+Bibars, ARM (corresponding author), Jordan Univ Sci & Technol, Fac Appl Med Sci, Dept Appl Dent Sci, Irbid 22110, Jordan.
+abd.baibars@gmail.com
+AN  - WOS:000412310900048
+AU  - Bibars, A. R. M.
+AU  - Alfwaress, F. S. D.
+AU  - Hamasha, A. A.
+AU  - Al-Hourani, Z. A.
+AU  - Almhdawi, K.
+DO  - 10.2174/1874210601711010436
+J2  - Open Dent. J.
+KW  - Velopharyngeal impairment
+Velopharyngeal incompetence
+Velopharyngeal
+insufficiency PLA
+Palatal lift prosthesis
+Prosthodontic
+rehabilitation
+Velopharyngeal valve
+palatal augmentation prostheses
+amyotrophic-lateral-sclerosis
+nasalance scores
+lift prosthesis
+cleft-palate
+speech
+nasality
+surgery
+dysfunction
+nasometry
+Dentistry, Oral Surgery & Medicine
+L1  - internal-pdf://2970374323/Bibars-2017-Prosthodontic Rehabilitation of Ar.pdf
+internal-pdf://2627782138/Bibars-2017-Prosthodontic Rehabilitation of A1.pdf
+LA  - English
+M3  - Article
+N1  - ISI Document Delivery No.: FI9FN
+Times Cited: 3
+Cited Reference Count: 32
+Bibars, Abdel Rahim M. Alfwaress, Firas S. D. Hamasha, Abed Al-Hadi Al-Hourani, Zeid A. Almhdawi, Khader
+Hamasha, Abed Al-Hadi/ABE-4693-2020; Alfwaress, Firas/AAV-3452-2020; Almhdawi, Khader/AFA-0883-2022
+Hamasha, Abed Al-Hadi/0000-0001-9597-4104; Alfwaress, Firas/0000-0002-6817-0570; Almhdawi, Khader/0000-0001-8906-6994; Al-Hourani, Zeid/0000-0001-9133-1574
+3
+0
+Bentham science publ ltd
+Sharjah
+PY  - 2017
+SN  - 1874-2106
+SP  - 436-446
+ST  - Prosthodontic Rehabilitation of Arabic Speaking Individuals with Velopharyngeal Incompetence: A Preliminary Study
+T2  - Open Dentistry Journal
+TI  - Prosthodontic Rehabilitation of Arabic Speaking Individuals with Velopharyngeal Incompetence: A Preliminary Study
+UR  - <Go to ISI>://WOS:000412310900048
+https://opendentistryjournal.com/contents/volumes/V11/TODENTJ-11-436/TODENTJ-11-436.pdf
+VL  - 11
+ID  - 2096
+ER  - 
+
+TY  - JOUR
+AB  - The palatal lift prostheses (PLP) are commonly used in the prosthetic management of palatopharyngeal incompetency. These prostheses work by lifting the soft palate upward and backward and also have physical and psychological benefits. In this case report, a PLP was provided to the patient for her speech problems. The soft palate was mechanically lifted upward and backward. PLP reduced the diameter of palatopharyngeal sphincter. This decreased the dysarthria and led to an increase in patient confidence. Surgically repaired cleft palate of this patient with hyper-nasality was successfully managed with PLP. It was concluded that PLP is acceptable and effective in the prosthodontic management of palatopharyngeal incompetency.
+AD  - S.M.R. Kazmi, Department Prosthodontics, Fatima Jinnah Dental College Hospital, Building 1, Street 1, Azam Town, Karachi, Pakistan
+AU  - Kazmi, S. M. R.
+AU  - Iqbal, Z.
+DB  - Embase
+Medline
+KW  - adult
+article
+case report
+cleft lip
+cleft palate
+clinical article
+Czermak test
+dental light-curing
+female
+human
+hydrocolloid
+hypernasality
+medical history
+medical procedures
+mouth examination
+mouth hygiene
+orthodontic procedure
+palatopharyngeal flap surgery
+palatopharyngeal incompetency
+patient counseling
+patient satisfaction
+pharynx disease
+prosthodontics
+young adult
+L1  - internal-pdf://3904399315/Kazmi-2017-Prosthodontic management of palatop.pdf
+LA  - English
+M3  - Article
+N1  - L618657142
+2017-10-12
+2017-10-18
+PY  - 2017
+SN  - 1681-7168
+1022-386X
+SP  - S131-S133
+ST  - Prosthodontic management of palatopharyngeal incompetency - A case report on palatal lift prosthesis
+T2  - Journal of the College of Physicians and Surgeons Pakistan
+TI  - Prosthodontic management of palatopharyngeal incompetency - A case report on palatal lift prosthesis
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L618657142&from=export
+VL  - 27
+ID  - 436
+ER  - 
+
+TY  - JOUR
+AB  - A palatal lift prosthesis (PLP) is an intraoral device that provides lift for the soft palate. The usual purpose of a PLP is to reduce nasopharyngeal reflux and the hypernasal speech caused by velopharyngeal incompetence. However, for this patient, the main purpose was to relieve a functional blockage at the oropharyngeal isthmus by suspending the soft palate. A PLP with soft and flexible lift was applied in a patient with a traumatic brain injury and dysphagia. The PLP improved oropharyngeal bolus transit time by relieving the blockage at the oropharyngeal isthmus. This type of PLP may help to improve bolus transport for patients with dysphagia.
+AU  - Ohno, T.
+AU  - Katagiri, N.
+AU  - Fujishima, I.
+DB  - Medline
+DO  - 10.1016/j.prosdent.2016.10.018
+IS  - 2
+KW  - adult
+case report
+dysphagia
+food
+human
+male
+prostheses and orthoses
+soft palate
+L1  - internal-pdf://2853526972/Ohno-2017-Palatal lift prosthesis for bolus tr.pdf
+LA  - English
+M3  - Article
+N1  - L622764458
+2018-07-03
+PY  - 2017
+SN  - 1097-6841
+SP  - 242-244
+ST  - Palatal lift prosthesis for bolus transport in a patient with dysphagia: A clinical report
+T2  - The Journal of prosthetic dentistry
+TI  - Palatal lift prosthesis for bolus transport in a patient with dysphagia: A clinical report
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L622764458&from=export
+http://dx.doi.org/10.1016/j.prosdent.2016.10.018
+VL  - 118
+ID  - 447
+ER  - 
+
+TY  - JOUR
+AB  - The authors performed distraction osteogenesis using The Maxillary Distractor System (SYNTHES) to maxillary hypoplasia patient with cleft lip palate, and consequently improved the aesthetic complexion of the patient. Velopharyngeal insufficiency developed after bone elongation; the authors improved the insufficiency with conservative therapies such as articulatory training using the bulb attached palatal lift prosthesis. The authors were successful and accepted postoperative speech outcome.
+AU  - Takahashi, K.
+AU  - Dahy, K. G.
+AU  - Saito, K.
+AU  - Masuoka, H.
+AU  - Suzuki, S.
+AU  - Bessho, K.
+DB  - Medline
+DO  - 10.1097/SCS.0000000000003692
+IS  - 5
+KW  - case report
+cleft lip
+cleft palate
+distraction osteogenesis
+esthetics
+human
+male
+malocclusion
+palatopharyngeal incompetence
+retrognathia
+young adult
+L1  - internal-pdf://3499281017/Takahashi-2017-Patient With Cleft Maxillary Hy.pdf
+LA  - English
+M3  - Article
+N1  - L621185158
+2018-03-16
+PY  - 2017
+SN  - 1536-3732
+SP  - 1302-1304
+ST  - Patient With Cleft Maxillary Hypoplasia Who Underwent Distraction Osteogenesis and Conservative Therapies to Postoperative Velopharyngeal Insufficiency
+T2  - The Journal of craniofacial surgery
+TI  - Patient With Cleft Maxillary Hypoplasia Who Underwent Distraction Osteogenesis and Conservative Therapies to Postoperative Velopharyngeal Insufficiency
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L621185158&from=export
+http://dx.doi.org/10.1097/SCS.0000000000003692
+VL  - 28
+ID  - 453
+ER  - 
+
+TY  - JOUR
+AB  - When soft palate defects lead to palatal insufficiency, the patient's quality of life is affected by difficulties swallowing, hypernasality, and poor intelligibility of speech. If immediate surgical reconstruction is not an option, the patient may benefit from the placement of a rigid obturator prosthesis. Unfortunately, the residual muscle stumps are often unable to adequately move this stiff and inert obturator to properly restore the velopharyngeal valve function. In the present case history report, a new membrane obturator concept is described: Using a dental dam to compensate for the soft palate defect, swallowing and speech were significantly improved.
+AU  - Bou, C.
+AU  - Liang Fat, A. S.
+AU  - de Mones Del Pujol, E.
+AU  - Plaire, V.
+AU  - Naveau, A.
+DB  - Medline
+DO  - 10.11607/ijp.5755
+IS  - 6
+KW  - aged
+case report
+human
+jaw tumor
+male
+palatal obturator
+prosthesis design
+quality of life
+soft palate
+squamous cell carcinoma
+L1  - internal-pdf://1909002904/Bou-2018-A New Membrane Obturator Prosthesis C.pdf
+LA  - English
+M3  - Article
+N1  - L624926949
+2018-11-20
+2019-07-05
+PY  - 2018
+SN  - 0893-2174
+SP  - 584-586
+ST  - A New Membrane Obturator Prosthesis Concept for Soft Palate Defects
+T2  - The International journal of prosthodontics
+TI  - A New Membrane Obturator Prosthesis Concept for Soft Palate Defects
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L624926949&from=export
+http://dx.doi.org/10.11607/ijp.5755
+VL  - 31
+ID  - 338
+ER  - 
+
+TY  - JOUR
+AB  - Prior to performing secondary surgeries, lateral cephalograms have been used during phonation to evaluate the point of attempted velopharyngeal contact along the posterior pharyngeal wall relative to the palatal plane and the first cervical vertebra. The ability to quantify the height of velopharyngeal closure is an important aspect of planning corrective surgeries for velopharyngeal dysfunction. However, issues with patient compliance during the imaging process can present difficulties for obtaining adequate preoperative imaging data. The purpose of this study was to assess if the height of velopharyngeal closure can be accurately estimated and quantified from at rest images. Results demonstrate that the height of velopharyngeal closure above C1 can be accurately quantified using at rest images in children with cleft palate. No statistically significant difference was found between the measures obtained at rest or during sustained phonation images (P = 0.573). Thus, quantitative measures from at rest images can aid in the preoperative planning process by providing surgeons with a numeric distance for tissue insertion along the posterior pharyngeal wall above C1. This distance is correlated to the height of velopharyngeal closure and successfully placing tissue at this height is likely tied to improved postoperative speech outcomes.
+AU  - Mason, K. N.
+AU  - Hauhuth, K.
+AU  - Perry, J. L.
+AU  - Riski, J. E.
+DB  - Medline
+DO  - 10.1097/SCS.0000000000004444
+IS  - 5
+KW  - cephalometry
+child
+cleft palate
+computer assisted diagnosis
+diagnostic imaging
+female
+human
+male
+palatopharyngeal incompetence
+panoramic radiography
+phonation
+physiology
+preschool child
+sensitivity and specificity
+velopharyngeal sphincter
+L1  - internal-pdf://1137949908/Mason-2018-Evaluating the Accuracy of Using at.pdf
+LA  - English
+M3  - Article
+N1  - L624522974
+2018-10-29
+PY  - 2018
+SN  - 1536-3732
+SP  - 1354-1357
+ST  - Evaluating the Accuracy of Using at Rest Images to Determine the Height of Velopharyngeal Closure
+T2  - The Journal of craniofacial surgery
+TI  - Evaluating the Accuracy of Using at Rest Images to Determine the Height of Velopharyngeal Closure
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L624522974&from=export
+http://dx.doi.org/10.1097/SCS.0000000000004444
+VL  - 29
+ID  - 364
+ER  - 
+
+TY  - JOUR
+AB  - Objective: Intranasal substance abuse with cocaine or opioids can result in complications involving the midline nasal and oral structures. When the defect involves the velopharyngeal musculature, this leads to velopharyngeal dysfunction (VPD). This article aims to illustrate this clinical entity through a series of four patients and a review of the literature. Methods: A series of four cases of VPD due to intranasal narcotic use and their management are discussed. A comprehensive search in PubMed was conducted for cases of VPD associated with intranasal drug use in the English-language literature. Results: Four female patients presented with symptoms of VPD, including worsening nasal regurgitation, poor speech intelligibility, and hypernasal speech. One patient presented with nasopharyngeal stenosis. All patients admitted to intranasal cocaine, methamphetamine, and/or prescription narcotics use prior to the onset of symptoms. The diagnosis was confirmed with abnormal velopharyngeal musculature seen on nasopharyngoscopy. Both conservative and surgical treatment options were proposed. A literature review identified nine cases of VPD. Erosion of the velum was seen in all cases. Reported treatments included obturator prosthetic, local flap, and free flap. Ancillary investigations were not consistently pursued to rule out other etiologies to VPD. Conclusion: Intranasal illicit drug use can result in destructive changes leading to VPD. This is the largest case series to date of this difficult clinical problem. Management principles including options for conservative and surgical interventions are summarized. Level of Evidence: 4 Laryngoscope, 128:2721–2725, 2018.
+AD  - M. Husein, Department of Otolaryngology–Head and Neck Surgery, London Health Science Centre, Schulich School of Medicine and Dentistry, Western University, Canada
+AU  - You, P.
+AU  - Chow, L.
+AU  - Dworschak-Stokan, A.
+AU  - Husein, M.
+DB  - Embase
+Medline
+DO  - 10.1002/lary.27240
+IS  - 12
+KW  - cocaine
+methamphetamine
+narcotic agent
+opiate
+oxycodone
+oxycodone plus paracetamol
+adult
+anosmia
+case report
+clinical article
+drug use
+female
+follow up
+free tissue graft
+human
+hypernasality
+intranasal drug administration
+middle aged
+nose malformation
+nose obstruction
+septoplasty
+palatopharyngeal incompetence
+postoperative complication
+priority journal
+review
+smoking cessation
+speech intelligibility
+substance abuse
+xerostomia
+L1  - internal-pdf://2646261504/You-2018-Velopharyngeal dysfunction from intra.pdf
+LA  - English
+M3  - Review
+N1  - L625682889
+2019-01-01
+2019-04-04
+PY  - 2018
+SN  - 1531-4995
+0023-852X
+SP  - 2721-2725
+ST  - Velopharyngeal dysfunction from intranasal substance abuse: Case series and review of literature
+T2  - Laryngoscope
+TI  - Velopharyngeal dysfunction from intranasal substance abuse: Case series and review of literature
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L625682889&from=export
+http://dx.doi.org/10.1002/lary.27240
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lary.27240?download=true
+VL  - 128
+ID  - 335
+ER  - 
+
+TY  - JOUR
+AB  - This clinical report describes the prosthetic rehabilitation of a 25-year-old man with a history of grade II chondrosarcoma at the skull base who had undergone surgical resection and thereafter developed velopharyngeal incompetency (VPI), dysarthria, and dysphagia. Upon baseline fiberoptic endoscopic evaluation of swallowing (FEES), the patient had an atypical pattern of VPI with minimal to no velar lift during speech, blow, or suck tasks, but near complete velar lift and seal during swallowing. A palatal augmentation prosthesis combined with a resilient palatal lift extension was fabricated to enhance speech by displacing the soft palate and to decrease hypernasality, while avoiding interference with bolus transport. A resilient wrought wire extension was necessary to accommodate the velar movement upon swallowing while keeping the integrity of the velar lift during speech. In conclusion, this unique combination prosthesis was able to help the patient's atypical pattern of VPI by improving speech and preserving swallowing function, which was confirmed during a post-endoscopic evaluation.
+AU  - Asfar, M. M.
+AU  - Hutcheson, K. A.
+AU  - Won, A. M.
+DB  - Medline
+DO  - 10.1111/jopr.12990
+IS  - 3
+KW  - adult
+chondrosarcoma
+dysarthria
+human
+male
+palatopharyngeal incompetence
+soft palate
+swallowing
+L1  - internal-pdf://1572276965/Asfar-2019-Prosthetic Rehabilitation with Pala.pdf
+LA  - English
+M3  - Review
+N1  - L626761199
+2019-03-20
+2019-12-03
+PY  - 2019
+SN  - 1532-849X
+SP  - 234-238
+ST  - Prosthetic Rehabilitation with Palatal Lift/Augmentation in a Patient with Neurologic/Motor Deficit Due To Cancer Therapy for Chondrosarcoma
+T2  - Journal of prosthodontics : official journal of the American College of Prosthodontists
+TI  - Prosthetic Rehabilitation with Palatal Lift/Augmentation in a Patient with Neurologic/Motor Deficit Due To Cancer Therapy for Chondrosarcoma
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L626761199&from=export
+http://dx.doi.org/10.1111/jopr.12990
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jopr.12990?download=true
+VL  - 28
+ID  - 304
+ER  - 
+
+TY  - JOUR
+AB  - The objective of this study was to investigate the occurrence of Passavant's ridge in patients with history of cleft palate presenting with velopharyngeal insufficiency (VPI) after primary palatal surgery. Twenty-five adult patients (mean age of 32 years), who wore a pharyngeal bulb prosthesis to correct VPI after primary palatoplasty participated in the study. Presence of Passavant's ridge was investigated in four conditions: prior to pharyngeal bulb for treatment of VPI (C1); during the molding of the pharyngeal bulb (C2); six months after the use of the pharyngeal bulb, but with the prosthesis removed (C3), and six months after the use of the pharyngeal bulb, but with the prosthesis in place (C4). Images of nasoendoscopic assessment of velopharyngeal function were obtained under all conditions were analyzed by speech-pathologists to identify the occurrence of Passavant's ridge during speech production. The results revealed a significant difference between molding condition (C2: 40%) and six months of bulb use (C4: 68%) (p = 0.028). The pharyngeal bulb may elicit the Passavant's ridge in patients with history of cleft palate presenting with VPI.
+AD  - [de Almeida, Beatriz K.; Ferreira, Gabriela Z.] Univ Sao Paulo, Bauru Sch Dent, Grad Program Speech Language Pathol & Audiol, Alameda Octavio Pinheiro Brisolla 9-75, BR-17012901 Bauru, SP, Brazil. [Aferri, Homero C.; Dutka, Jeniffer de C. R.; Pegoraro-Krook, Maria Ines] Univ Sao Paulo, Hosp Rehabil Craniofacial Anomalies, Palatal Prosthesis Serv, Rua Silvio Marchione 3-20, BR-17012900 Bauru, SP, Brazil. [Marino, Viviane C. C.] Sao Paulo State Univ UNESP, Dept Speech Language Pathol & Audiol, Fac Filosofia & Ciencias, Campus Marilia,Av Higino Muzzi Filho 737, BR-17525900 Marilia, SP, Brazil. [Dutka, Jeniffer de C. R.; Pegoraro-Krook, Maria Ines] Univ Sao Paulo, Bauru Sch Dent, Dept Speech Language Pathol & Audiol, Alameda Octavio Pinheiro Brisolla 9-75, BR-17012901 Bauru, SP, Brazil.
+Pegoraro-Krook, MI (corresponding author), Univ Sao Paulo, Fac Odontol Bauru, Dept Fonoaudiol, Alameda Octavio Pinheiro Brisolla 9-75, BR-17012901 Bauru, SP, Brazil.
+biakuntz@gmail.com; gabizuin@hotmail.com; homeroaferri@usp.br; vivianemarino2@yahoo.com.br; jdutka@usp.br; mikrook@usp.br
+AN  - WOS:000499761500013
+AU  - de Almeida, B. K.
+AU  - Ferreira, G. Z.
+AU  - Aferri, H. C.
+AU  - Marino, V. C. C.
+AU  - Dutka, J. D. R.
+AU  - Pegoraro-Krook, M. I.
+C7  - 105939
+DA  - Nov-Dec
+DO  - 10.1016/j.jcomdis.2019.105939
+J2  - J. Commun. Disord.
+KW  - Velopharyngeal dysfunction
+Pharyngeal bulb
+Passavant's ridge
+Cleft
+palate
+cleft-palate
+velopharyngeal surgery
+management
+outcomes
+placement
+obturator
+movement
+patterns
+closure
+wall
+Audiology & Speech-Language Pathology
+Linguistics
+Rehabilitation
+L1  - internal-pdf://1432114613/de Almeida-2019-Passavant's ridge during speec.pdf
+LA  - English
+M3  - Article
+N1  - ISI Document Delivery No.: JR6VV
+Times Cited: 2
+Cited Reference Count: 50
+de Almeida, Beatriz K. Ferreira, Gabriela Z. Aferri, Homero C. Marino, Viviane C. C. Dutka, Jeniffer de C. R. Pegoraro-Krook, Maria Ines
+Pegoraro-Krook, Maria Ines/B-4538-2011; Dutka, Jeniffer CR/D-9800-2012
+Pegoraro-Krook, Maria Ines/0000-0001-5391-8753; Dutka, Jeniffer CR/0000-0001-9676-0052
+Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Brazil (CAPES)Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior (CAPES) [001]
+This study was financed by the Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Brazil (CAPES) - Finance Code 001". Master's Scholarship for the main author.
+2
+0
+4
+Elsevier science inc
+New york
+1873-7994
+PY  - 2019
+SN  - 0021-9924
+SP  - 9
+ST  - Passavant's ridge during speech production with and without pharyngeal bulb
+T2  - Journal of Communication Disorders
+TI  - Passavant's ridge during speech production with and without pharyngeal bulb
+UR  - <Go to ISI>://WOS:000499761500013
+VL  - 82
+ID  - 2152
+ER  - 
+
+TY  - JOUR
+AB  - Palatal defects of the oral cavity can be either congenital or acquired following trauma or surgical excision of malignant disease. Palatal defects can greatly affect function and subsequent quality of life. Rehabilitation using a removable obturator can be a preferable treatment option as it allows regular review post-surgery. This case study reports on the design and construction of a removable "speech bulb" obturator. A 50-year-old female patient presented complaining of nasal regurgitation and looseness of her current palatal obturator. She had previously undergone wide surgical excision of her soft palate under general anaesthesia due to adenoid cystic carcinoma. Treatment consisted of the provision of a new removable obturator, paying careful attention to the design of the "speech bulb" itself. The design of the "speech bulb" is crucial to optimise function, and the method of prosthesis fabrication is fully described. This case highlights the impact of obturator fit on a patient's quality of life and will be of benefit to clinicians from many disciplines including dentists, oral and maxillofacial surgeons, Ear, Nose & Throat (ENT) surgeons and speech and language therapists.
+AD  - [Hardwick, Constance] Bristol Dent Hosp, Lower Maudlin St, Bristol BS1 2LY, Avon, England. [Puryer, James] Bristol Dent Sch, Lower Maudlin St, Bristol BS1 2LY, Avon, England.
+Puryer, J (corresponding author), Bristol Dent Sch, Lower Maudlin St, Bristol BS1 2LY, Avon, England.
+conniehardwick@sky.com; james.puryer@bristol.ac.uk
+AN  - WOS:000681692300005
+AU  - Hardwick, C.
+AU  - Puryer, J.
+C7  - 5
+DA  - Mar
+DO  - 10.3390/reports2010005
+IS  - 1
+J2  - Reports
+KW  - prosthesis
+obturator
+rehabilitation
+design
+carcinoma
+General & Internal Medicine
+L1  - internal-pdf://1600028624/Hardwick-2019-A Palatal Speech Bulb-A Case Stu.pdf
+LA  - English
+M3  - Article
+N1  - ISI Document Delivery No.: VK3OJ
+Times Cited: 1
+Cited Reference Count: 20
+Hardwick, Constance Puryer, James
+Puryer, James/0000-0002-2475-0215
+1
+0
+Mdpi
+Basel
+2571-841x
+PY  - 2019
+SP  - 6
+ST  - A Palatal Speech Bulb-A Case Study
+T2  - Reports
+TI  - A Palatal Speech Bulb-A Case Study
+UR  - <Go to ISI>://WOS:000681692300005
+https://mdpi-res.com/d_attachment/reports/reports-02-00005/article_deploy/reports-02-00005.pdf?version=1548821534
+VL  - 2
+ID  - 2108
+ER  - 
+
+TY  - JOUR
+AB  - Background: Velopharyngeal dysfunction (VPD) following primary palatoplasty causes serious speech problems with resultant communication disorders in patients with cleft palate. This consequently decreases the quality of the patient's life. Postoperative VPD is caused by several factors, including oro-nasal fistula, insufficient palatal length and movement of the soft palate. The treatment of VPD cannot be treated by a single's specialist owing to the presence of complex problems. When these speech problems are recognized as being related to postoperative VPD, velopharyngeal closure function (VPF) should be recovered through a multidisciplinary approach involving many specialties of medicine, dentistry, and speech. Prosthetic therapy is the one of the treatment approaches for VPD. A prosthetic speech bulb is widely used for the treatment of persistent VPD to facilitate speech generation by separating the nasopharynx from the oropharynx, thereby impounding oral air pressure that is required for avoidance of nasal speech sounds. In this presentation, we review two of our earlier prosthetic studies regarding the effects of bulb-type palatal left prosthesis therapy on VPD. Study1: This study included 18 patients (3-52 years old) who underwent bulb- PLP therapy for persistent VPD following palatoplasty. All patients achieved adequate VPF with bulb-PLP. After treatment, 10 patients (55.6%) achieved successful activation of VPF without bulb-PLP (the effective group), whereas VPD was persistent VPI remained in 8 patients (the ineffective group). Study 2: This study included 24 patients (3-49 years old) who underwent bulb- PLP therapy for persistent VPD following palatoplasty or congenital velopharyngeal insufficiency. In the effective group, i.e., the group that could withdraw the bulb-PLP, the effect of wearing the prosthesis was noted in 9/18(50%) patients and improvement in articulation was noted after wearing the prosthesis. However, in the ineffective group, i.e., the group that could not withdraw the bulb-PLP, the prosthesis was not worn well in many cases, and there was no improvement in articulation; thus, half the patients in this group had to undergo surgery. Conclusion: The results of both above-mentioned studies indicate the usefulness of bulb-PLP therapy in facilitating speech and consequently reducing the need for secondary surgery in patients with persistent VPD following palatoplasty. The possible signs of a subsequent effective activation of VPF are as follows: 1) preexisting adequate VPF under blowing condition, 2) smaller V-P distance, and 3) synchronized palatopharyngeal movement.
+AD  - Y. Ogata, Kurashige Pediatric Clinic, Japan
+AU  - Ogata, Y.
+AU  - Tezuka, M.
+AU  - Nakamura, N.
+AU  - Sasaguri, M.
+AU  - Mitsuyasu, T.
+AU  - Hasegawa, S.
+AU  - Nakamura, S.
+DB  - Embase
+DO  - 10.1111/cga.12359
+IS  - 6
+KW  - adolescent
+adult
+air pressure
+avoidance behavior
+child
+cleft palate
+clinical article
+conference abstract
+congenital disorder
+controlled study
+dentistry
+drug withdrawal
+female
+human
+male
+nasal speech
+nasopharynx
+oropharynx
+palatal lift prosthesis
+palatopharyngeal incompetence
+palatoplasty
+sound
+surgery
+L1  - internal-pdf://1631518149/Ogata-2019-Bulb type palatal lift prosthesis (.pdf
+LA  - English
+M3  - Conference Abstract
+N1  - L634061340
+2021-02-05
+PY  - 2019
+SN  - 1741-4520
+SP  - A10
+ST  - Bulb type palatal lift prosthesis (bulb-PLP) therapy for velopharyngeal dysfunction in cleft palate
+T2  - Congenital Anomalies
+TI  - Bulb type palatal lift prosthesis (bulb-PLP) therapy for velopharyngeal dysfunction in cleft palate
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L634061340&from=export
+http://dx.doi.org/10.1111/cga.12359
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cga.12359?download=true
+VL  - 59
+ID  - 256
+ER  - 
+
+TY  - JOUR
+AB  - Background: The submucous cleft palate (SMCP) is a type of cleft palate that may result in velopharyngeal insufficiency (VPI). Palate muscles completely separate oral and nasal cavities by closing off the velopharynx during functional processes such as speech or swallow. Also, hypernasality may arise from anatomical or neurological abnormalities in these functions. Treatments of this issue involve a combination of surgical intervention, speech aid, and speech therapy. This case report demonstrates successfully treated VPI resulted from SMCP without any surgical intervention but solely with speech aid appliance and speech therapy. Case presentation: A 13-year-old female patient with a speech disorder from velopharyngeal insufficiency that was caused by a submucous cleft palate visited to our OMFS clinic. In the intraoral examination, the patient had a short soft palate and bifid uvula. And the muscles in the palate did not contract properly during oral speech. She had no surgical history such as primary palatoplasty or pharyngoplasty except for tonsillectomy. And there were no other medical histories. Objective speech assessment using nasometer was performed. We diagnosed that the patient had a SMCP. The patient has shown a decrease in speech intelligibility, which resulted from hypernasality. We decided to treat the patient with speech aid (palatal lift) along with speech therapy. During the 7-month treatment, hypernasality measured by a nasometer decreased and speech intelligibility became normal. Conclusions: Surgery remains the first treatment option for patients with velopharyngeal insufficiencies from submucous cleft palates. However, there were few reports about objective speech evaluation pre- or post-operation. Moreover, there has been no report of non-surgical treatment in the recent studies. From this perspective, this report of objective improvement of speech intelligibility of VPI patient with SMCP by non-surgical treatment has a significant meaning. Speech aid can be considered as one of treatment options for management of SMCP.
+AD  - S.-O. Ko, Department of Oral and Maxillofacial Surgery, School of Dentistry, Chonbuk National University Dental Hospital, 20, Geonji-ro, Deokjin-gu, Jeonju-si, Jeollabuk-do, South Korea
+AU  - Park, Y. H.
+AU  - Jo, H. J.
+AU  - Hong, I. S.
+AU  - Leem, D. H.
+AU  - Baek, J. A.
+AU  - Ko, S. O.
+DB  - Embase
+DO  - 10.1186/s40902-019-0202-8
+IS  - 1
+KW  - palatal obturator
+article
+case report
+child
+cleft palate
+clinical article
+conservative treatment
+female
+human
+hypernasality
+language
+nasalance
+palatopharyngeal incompetence
+palatoplasty
+pharynx reconstruction
+priority journal
+school child
+soft palate
+speech disorder
+speech intelligibility
+speech sound disorder
+speech therapy
+tonsillectomy
+L1  - internal-pdf://0168002245/Park-2019-Treatment of velopharyngeal insuffic.pdf
+LA  - English
+M3  - Article
+N1  - L2004227356
+2020-02-14
+2020-04-13
+PY  - 2019
+SN  - 2288-8586
+ST  - Treatment of velopharyngeal insufficiency in a patient with a submucous cleft palate using a speech aid_ the more treatment options, the better the treatment results
+T2  - Maxillofacial Plastic and Reconstructive Surgery
+TI  - Treatment of velopharyngeal insufficiency in a patient with a submucous cleft palate using a speech aid_ the more treatment options, the better the treatment results
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2004227356&from=export
+http://dx.doi.org/10.1186/s40902-019-0202-8
+https://jkamprs.springeropen.com/counter/pdf/10.1186/s40902-019-0202-8.pdf
+VL  - 41
+ID  - 243
+ER  - 
+
+TY  - JOUR
+AB  - Spinal and bulbar muscular atrophy (SBMA) is a hereditary neuromuscular disease affecting only males characterized by progressive muscular atrophy and weakness in bulbar and limb muscles. The present study aimed to evaluate the features of velopharyngeal dysfunction (VPD) in SBMA subjects by an acoustic analysis of speech. Twenty-three genetically confirmed patients with SBMA were enrolled and assessed their speech by measuring the nasalance score with a Nasometer II. The nasalance scores of the SBMA group was higher than that of healthy controls (p = .035) and significantly correlated with the total score of the revised amyotrophic lateral sclerosis functional rating scale (rs = −0.520, p = .011). On the basis of the results of the VPD study, the efficacy of a palatal lift prosthesis (PLP) was assessed in two patients with SBMA to treat their VPD. The PLP improved dysarthria in both cases, although the impact of the prosthesis on dysphagia was not consistent. The present study suggested that the nasalance score is a useful quantitative measurement to evaluate VPD in patients with SBMA. A PLP may improve dysarthria in SBMA patients by reducing VPD, but the clinical application of this procedure should be considered carefully in view of its possible negative effect on dysphagia.
+AD  - M. Katsuno, Department of Neurology, Nagoya University Graduate School of Medicine, 65 Tsurumai-cho, Showa-ku, Nagoya, Japan
+AU  - Tanaka, S.
+AU  - Hashizume, A.
+AU  - Hijikata, Y.
+AU  - Yamada, S.
+AU  - Ito, D.
+AU  - Nakayama, A.
+AU  - Kurita, K.
+AU  - Yogo, H.
+AU  - Banno, H.
+AU  - Suzuki, K.
+AU  - Yamamoto, M.
+AU  - Sobue, G.
+AU  - Katsuno, M.
+DB  - Embase
+Medline
+DO  - 10.1016/j.jns.2019.116503
+KW  - otorhinolaryngology diagnostic device
+palatal lift prosthesis
+androgen receptor
+barium
+genomic DNA
+acoustic analysis
+adult
+aged
+amyotrophic lateral sclerosis
+article
+clinical article
+clinical assessment
+clinical evaluation
+clinical feature
+controlled study
+disease severity
+dysarthria
+dysphagia
+food intake
+functional status
+genetic analysis
+human
+hypernasality
+Kennedy disease
+limb weakness
+male
+middle aged
+muscle weakness
+nasalance
+nasalance score
+nose cavity
+palatopharyngeal incompetence
+pharynx
+priority journal
+pyriform sinus
+quantitative analysis
+rating scale
+scoring system
+soft palate
+speech intelligibility
+swallowing
+therapy effect
+L1  - internal-pdf://3936849791/Tanaka-2019-Nasometric Scores in spinal and bu.pdf
+LA  - English
+M3  - Article
+N1  - L2003453845
+2019-10-31
+2019-11-06
+PY  - 2019
+SN  - 1878-5883
+0022-510X
+ST  - Nasometric Scores in spinal and bulbar muscular atrophy - Effects of palatal lift prosthesis on dysarthria and dysphagia
+T2  - Journal of the Neurological Sciences
+TI  - Nasometric Scores in spinal and bulbar muscular atrophy - Effects of palatal lift prosthesis on dysarthria and dysphagia
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2003453845&from=export
+http://dx.doi.org/10.1016/j.jns.2019.116503
+VL  - 407
+ID  - 240
+ER  - 
+
+TY  - JOUR
+AB  - Introduction: A palatal lift prosthesis (PLP) is an intraoral device that assists the lift of the soft palate. A PLP with flexible lift (f-PLP) is known to improve velopharyngeal incompetence during swallowing. This study aimed to evaluate how the f-PLP works for oropharyngeal dysphagia due to lower cranial nerve palsies, using a high-resolution manometry system (HRM). Methods: A 67-year-old man with dysphagia due to postoperative nerve injury (Rt. V to XII) was treated with f-PLP for velopharyngeal incompetence. After eight months of daily use, pharyngeal pressure was measured with and without f-PLP using 12 swallows of different thickened liquids. Velopharyngeal maximum pressure (Pmax), velopharyngeal contractile integral (VPCI), pressure duration, mesohypopharyngeal Pmax, upper esopharyngeal sphincter (UES) relaxation duration, and UES nadir pressure were evaluated using HRM, and statistically analyzed by the Mann-Whitney U test or independent t test. In addition, subjective change in the ease of swallowing brought about by f-PLP application was rated using a Numerical Rating Score (NRS), and evaluated by video fluoroscopic examination of swallowing. Results: Pharyngeal bolus passage through UES improved with f-PLP. Subjective change in swallowing ease with f-PLP on NRS was 0, and that without f-PLP was 5. The velopharyngeal Pmax, VPCI, and pressure duration with PLP were significantly higher than those without (p<0.05). The meso-pharyngeal Pmax with f-PLP was also significantly higher than that without (p < 0.05). There were no significant differences in the duration of UES relaxation and UES nadir pressure. Conclusion: It has been suggested that f-PLP assists to narrow a part of the pharynx during swallowing. This may contribute to improving the pharyngeal passage of the bolus.
+AD  - A.N. Nomoto, Hamamatsu City Rehabilitation Hospital, Japan
+AU  - Nomoto, A. N.
+AU  - Kunieda, K. K.
+AU  - Kanazawa, H. K.
+AU  - Ohno, T. O.
+AU  - Shigematsu, T. S.
+AU  - Hojo, K. H.
+AU  - Fujishima, I. F.
+DB  - Embase
+DO  - 10.1007/s00455-019-10078-x
+IS  - 1
+KW  - aged
+case report
+clinical article
+conference abstract
+cranial nerve paralysis
+dysphagia
+human
+leisure
+male
+manometry
+nerve injury
+palatal lift prosthesis
+palatopharyngeal incompetence
+pharynx
+rank sum test
+sphincter
+surgery
+videorecording
+L1  - internal-pdf://2302808562/Nomoto-2020-Effect of palatal lift prosthesis.pdf
+LA  - English
+M3  - Conference Abstract
+N1  - L631571649
+2020-04-30
+PY  - 2020
+SN  - 1432-0460
+SP  - 203-204
+ST  - Effect of palatal lift prosthesis with flexible lift on a patient with dysphagia due to lower cranial nerve palsies evaluated using highresolution manometry system: A clinical report
+T2  - Dysphagia
+TI  - Effect of palatal lift prosthesis with flexible lift on a patient with dysphagia due to lower cranial nerve palsies evaluated using highresolution manometry system: A clinical report
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L631571649&from=export
+http://dx.doi.org/10.1007/s00455-019-10078-x
+https://link.springer.com/content/pdf/10.1007/s00455-019-10078-x.pdf
+VL  - 35
+ID  - 230
+ER  - 
+
+TY  - JOUR
+AB  - Introduction: Individuals with cleft palate can present with velopharyngeal dysfunction after primary palatoplasty and require a secondary treatment due to insufficiency. In these cases, the pharyngeal bulb prosthesis can be used temporarily while awaiting secondary surgery. Objective: This study aimed to investigate the outcome of treatment of hypernasality with pharyngeal bulb prosthesis in patients with history of cleft palate presenting with velopharyngeal insufficiency after primary palatal surgery. We hypothesized that the use of the pharyngeal bulb prosthesis is an effective approach to eliminate hypernasality related to velopharyngeal insufficiency in patients with cleft palate. Methods: Thirty speakers of Brazilian Portuguese (15 males and 15 females) with operated cleft palate, ages ranging from 6 to 14 years (mean: 9 years; SD = 1.87 years), participated in the study. All patients were fitted with a pharyngeal bulb prosthesis to manage velopharyngeal insufficiency while they were awaiting corrective surgery to be scheduled. Auditory-perceptual analysis of speech recorded in the conditions with and without pharyngeal bulb prosthesis were obtained from three listeners who rated the presence or absence of hypernasality for this study. Results: Seventy percent of the patients eliminated hypernasality while employing the pharyngeal bulb prosthesis, while 30% still presented with hypernasality. The comparison was statistically significant (p < 0.001). Conclusion: The use of the pharyngeal bulb prosthesis is an effective approach to eliminate hypernasality related to velopharyngeal insufficiency.
+AD  - M.I. Pegoraro-Krook, Universidade de São Paulo, Faculdade de Odontologia de Bauru, Departamento de Fonoaudiologia, Bauru, SP, Brazil
+AU  - Pegoraro-Krook, M. I.
+AU  - Rosa, R. R.
+AU  - Aferri, H. C.
+AU  - Andrade, L. K. F. D.
+AU  - Dutka, J. D. C. R.
+DB  - Embase
+Medline
+DO  - 10.1016/j.bjorl.2020.05.028
+KW  - adolescent
+article
+child
+clinical article
+controlled study
+female
+human
+hypernasality
+male
+palatal obturator
+palatopharyngeal incompetence
+pharynx
+plastic surgery
+L1  - internal-pdf://4032144885/Pegoraro-Krook-2020-Pharyngeal bulb prosthesis.pdf
+LA  - English
+Portuguese
+M3  - Article in Press
+N1  - L2007377422
+2020-08-12
+PY  - 2020
+SN  - 1808-8686
+1808-8694
+ST  - Pharyngeal bulb prosthesis and speech outcome in patients with cleft palate
+T2  - Brazilian Journal of Otorhinolaryngology
+TI  - Pharyngeal bulb prosthesis and speech outcome in patients with cleft palate
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2007377422&from=export
+http://dx.doi.org/10.1016/j.bjorl.2020.05.028
+ID  - 227
+ER  - 
+
+TY  - JOUR
+AB  - Oropharyngeal reconstruction represents one of the greatest challenges in the surgical rehabilitation of patients with head and neck cancer. Here, we report a case involving the successful recovery of swallowing and speech functions following the repair of a total full-thickness velar defect due to recurrent oropharyngeal carcinoma resection. Repair involved soft palate reconstruction by rotating a wide palatal tissue flap and using a palatal lift prosthesis with a speech bulb (bulb-PLP). A 42-year-old woman who had undergone mucoepidermoid carcinoma resection in the soft palate and reconstruction using a radial forearm flap was referred to our department by an otolaryngologist for consultation regarding the method of functional recovery after recurrent carcinoma resection. After an otolaryngologist resected the tumor, we performed soft palate reconstruction by rotating the remaining palatal mucoperiosteal tissue flap to minimize the velar defect, aiming for a more physiological condition resulting in complete velopharyngeal closure function. One month after the operation, bulb-PLP was applied to recover the swallowing and speech functions. Postoperatively, speech intelligibility and swallowing function were satisfactorily improved, and the nasalance scores improved to almost the same level as in healthy Japanese subjects. Eight years after the operation, tumor recurrence was not observed. The patient maintained a sufficiently high quality of life.
+AD  - [Tezuka, Masahiro; Hirahara, Narihiro; Kamikuri, Yuhei; Ishida, Takayuki; Nakamura, Norifumi] Kagoshima Univ, Dept Oral & Maxillofacial Surg, Field Maxillofacial Rehabil, Grad Sch Med & Dent Sci, 8-35-1 Sakuragaoka, Kagoshima 8908544, Japan. [Hirahara, Narihiro] Kagoshima City Hosp, Dept Oral & Maxillofacial Surg, Kagoshima, Japan.
+Nakamura, N (corresponding author), Kagoshima Univ, Dept Oral & Maxillofacial Surg, Field Maxillofacial Rehabil, Grad Sch Med & Dent Sci, 8-35-1 Sakuragaoka, Kagoshima 8908544, Japan.
+nakamura@dent.kagoshima-u.ac.jp
+AN  - WOS:000593356400005
+AU  - Tezuka, M.
+AU  - Hirahara, N.
+AU  - Kamikuri, Y.
+AU  - Ishida, T.
+AU  - Nakamura, N.
+DA  - Nov
+DO  - 10.1016/j.ajoms.2020.07.010
+IS  - 6
+J2  - J. Oral Maxillofac. Surg. Med. Pathol.
+KW  - Total full-thickness velar defect
+Speech and swallowing rehabilitation
+Bulb-PLP
+Soft palate reconstruction
+palatini muscle
+reconstruction
+flap
+Dentistry, Oral Surgery & Medicine
+L1  - internal-pdf://1626276121/Tezuka-2020-Alternative successful functional.pdf
+LA  - English
+M3  - Article
+N1  - ISI Document Delivery No.: OX1TQ
+Times Cited: 0
+Cited Reference Count: 16
+Tezuka, Masahiro Hirahara, Narihiro Kamikuri, Yuhei Ishida, Takayuki Nakamura, Norifumi
+0
+Elsevier science inc
+New york
+2212-5566
+PY  - 2020
+SN  - 2212-5558
+SP  - 498-502
+ST  - Alternative successful functional recovery of total full-thickness velar defect following recurrent oropharyngeal carcinoma resection: A case report
+T2  - Journal of Oral and Maxillofacial Surgery Medicine and Pathology
+TI  - Alternative successful functional recovery of total full-thickness velar defect following recurrent oropharyngeal carcinoma resection: A case report
+UR  - <Go to ISI>://WOS:000593356400005
+VL  - 32
+ID  - 2112
+ER  - 
+
+TY  - JOUR
+AB  - STATEMENT OF PROBLEM: Tumors of the soft palate and the adjacent tissues often create considerable soft palate defects that are challenging for the maxillofacial prosthodontist. Soft palate obturator prostheses can usually address functional and esthetic concerns; however, the effectiveness of the prosthetic rehabilitation in improving the patient's well-being and overall quality of life (QOL) has not been extensively researched. PURPOSE: The purpose of the present research was to evaluate the function of the prosthesis, to review the interrelation between sociodemographic, medical, and treatment (SMT) characteristics, QOL, and prosthesis functioning, and to analyze the role of the prosthesis in how the patient represents the illness and the psychological coping response. MATERIAL AND METHODS: Thirty-three patients who underwent resection of the soft palate and had been using a technically successful soft palate obturator prosthesis for at least 1 year were interviewed by means of 5 questionnaires: European Organization for Research and Treatment of Cancer (EORTC) Quality of Life Core Questionnaire (QLQ-C30), Head and Neck Cancer Module (QLQ-HN35), Obturator Functioning Scale (OFS), Illness Perceptions Questionnaire (IPQ-R), and Mental Adjustment to Cancer Scale (MAC). Data analysis was performed at α=.01. RESULTS: The QOL (r=-0.53, P=.001), personal control (r=-0.53, P=.001), negative adjustment to cancer (r=0.47, P=.005), treatment control (r=-0.55, P=.001), consequences (r=0.62, P<.001), and emotional representations (r=0.30, P=.009) were significantly related to prosthesis functioning. Better QOL was significantly related to prosthesis functioning (P=.006), age (P=.001), sex (P=.011), and type of soft palate defect (P=.009). The most important predictors of favorable soft palate obturator functioning were age (P<.001) and type of soft palate defect (P=.01). CONCLUSIONS: A patient-perceived effective soft palate obturator prosthesis was a significant predictor for advanced QOL, better adjustment to illness and illness-related disabilities, as well as the overall coping response to cancer.
+AD  - Assistant Professor, Department of Prosthodontics, National and Kapodistrian University of Athens, School of Dentistry, Athens, Greece; Maxillofacial Prosthodontist, Former Fellow, The University of Texas, M.D. Anderson Cancer Center, Houston, Texas. Electronic address: iartopoulou@gmail.com.
+Professor, Department of Psychology, University of Crete, Rethymno, Greece.
+Professor and Chief, Department of Oral and Maxillofacial Surgery, National and Kapodistrian University of Athens, "Evaggelismos" General Hospital, Athens, Greece.
+Professor and Chief, Department of Prosthodontics, National and Kapodistrian University of Athens, School of Dentistry, Athens, Greece.
+AN  - 34119321
+AU  - Artopoulou, II
+AU  - Karademas, E. C.
+AU  - Perisanidis, C.
+AU  - Polyzois, G.
+DA  - Jun 10
+DO  - 10.1016/j.prosdent.2021.04.009
+DP  - NLM
+ET  - 20210610
+L1  - internal-pdf://3119382876/Artopoulou-2021-Quality of life in patients wi.pdf
+LA  - eng
+N1  - 1097-6841
+Artopoulou, Ioli Ioanna
+Karademas, Evangelos C
+Perisanidis, Christos
+Polyzois, Gregory
+Journal Article
+United States
+2021/06/14
+J Prosthet Dent. 2021 Jun 10:S0022-3913(21)00219-5. doi: 10.1016/j.prosdent.2021.04.009.
+PY  - 2021
+SN  - 0022-3913
+ST  - Quality of life in patients with soft palate resection: The relationship between reported functional prosthetic outcomes and the patient's psychological adjustment
+T2  - J Prosthet Dent
+TI  - Quality of life in patients with soft palate resection: The relationship between reported functional prosthetic outcomes and the patient's psychological adjustment
+ID  - 1554
+ER  - 
+
+TY  - JOUR
+AB  - Background: Velopharyngeal incompetence (VPI) therapy for cleft palate (speech therapy alone, speech therapy using speech aids, or combined therapy such as speech therapy using a pharyngeal flap), is more effective in younger patients than in adult patients. Speech therapy is known as very difficult for patients who still have VPI as an adult. Because of the possibility of subsequent speech disorders, the timing of surgery for cleft palate is accelerating. Herein, we present a case of an adult with articulation disorder due to VPI who was treated by speech therapy and a speech-aid prosthesis. Case presentation: A woman who underwent cleft palate surgery at 8 years of age still had difficulty with articulation due to VPI as a 24-year-old adult because of a lack of continuous speech therapy. We decided to use a speech-aid application using palatal lift, and a reduction program was conducted four times, along with simultaneous speech therapy, over a period of 1 year and 7 months. During the therapy period, she was able to speak normally within a relatively short period of time, and after implementation of the reduction program, the therapy was completed by completely removing the device. Long-term observations have shown normal speech function without recurrence, even after the device was removed. Conclusion: As seen in this case, speech therapy using speech aids can show a good result for adult patients with cleft palate who missed the usual timing for the treatment of articulation disorders, depending on the situation. Therefore, it is hereby reported as a therapy option worthy of consideration.
+AD  - S.-O. Ko, Department of Oral and Maxillofacial Surgery, School of Dentistry, Jeonbuk National University Dental Hospital, 20, Geonji-ro, Deokjin-gu, Jeonju-si, Jeollabuk-do, South Korea
+AU  - Kang, D. C.
+AU  - Park, J. H.
+AU  - Seok, H.
+AU  - Baek, J. A.
+AU  - Kim, D. W.
+AU  - Ko, S. O.
+DB  - Embase
+DO  - 10.1186/s40902-021-00315-5
+IS  - 1
+KW  - adult
+article
+case report
+child
+clinical article
+female
+human
+palatal obturator
+palatopharyngeal incompetence
+pharynx
+school child
+speech sound disorder
+speech therapy
+surgery
+young adult
+L1  - internal-pdf://0269441500/Kang-2021-Speech-aid prosthesis in velopharyng.pdf
+LA  - English
+M3  - Article
+N1  - L2013396473
+2021-08-16
+PY  - 2021
+SN  - 2288-8586
+ST  - Speech-aid prosthesis in velopharyngeal incompetency patient with cleft palate: can speech aids be applicable for adult patient?
+T2  - Maxillofacial Plastic and Reconstructive Surgery
+TI  - Speech-aid prosthesis in velopharyngeal incompetency patient with cleft palate: can speech aids be applicable for adult patient?
+UR  - https://www.embase.com/search/results?subaction=viewrecord&id=L2013396473&from=export
+http://dx.doi.org/10.1186/s40902-021-00315-5
+https://jkamprs.springeropen.com/counter/pdf/10.1186/s40902-021-00315-5.pdf
+VL  - 43
+ID  - 31
+ER  - 
+
+TY  - JOUR
+AB  - Patient Palatal lift prostheses (PLPs) are used for dysarthria caused by velopharyngeal incompetence (VPI) and improving hypernasal speech. In this case, we used a PLP with a flexible lift (f-PLP) in a patient with dysphagia associated with VPI due to right-sided cranial nerve injuries after a skull base surgery. We examined its efficacy in swallowing biomechanics and swallowing function using high-resolution manometry (HRM) and videofluoroscopic examination of swallowing (VF). The patient felt that it was easier to swallow with f-PLP. Furthermore, VF indicated that the pharyngeal residue with f-PLP was less than without it. HRM showed that velopharyngeal pressure and intrabolus pressure (IBP) with f-PLP were higher than those without it. Additionally, the upper esophageal sphincter (UES) relaxation time and UES nadir pressure on the patient's healthy left side compared to the right side improved with f-PLP.Discussion We discovered two clinical outcomes. First, the f-PLP ensured velopharyngeal closure and an increase in the hypopharyngeal IBP, which potentially improved the UES opening on the healthy side. Second, the f-PLP improved pharyngeal clearance, and the patient felt that it was easier to swallow with the f-PLP. This implies that an f-PLP potentially exhibits a positive effect on swallowing.Conclusions In this case, the f-PLP contributed to improving the pharyngeal passage of a bolus. We suggest that f-PLPs can be used for patients with dysarthria and those with dysphagia with VPI.
+AD  - Department of Dentistry, Hamamatsu City Rehabilitation Hospital, Shizuoka, Japan.
+Department of Gerodontology and Oral Rehabilitation, Graduate School of Medical and Dental Sciences, Tokyo Medical and Dental University, Tokyo, Japan.
+Department of Neurology, Gifu University Graduate School of Medicine, Gifu, Japan.
+Department of Rehabilitation Medicine, Hamamatsu City Rehabilitation Hospital, Shizuoka, Japan.
+Department of Rehabilitation Medicine, Seirei Awaji Hospital, Hyogo, Japan.
+Department of Rehabilitation, Hamamatsu City Rehabilitation Hospital, Shizuoka, Japan.
+Department of Nutrition, Hamamatsu City Rehabilitation Hospital, Shizuoka, Japan.
+AN  - 33612665
+AU  - Nomoto, A.
+AU  - Ohno, T.
+AU  - Kunieda, K.
+AU  - Kanazawa, H.
+AU  - Shigematsu, T.
+AU  - Hojo, K.
+AU  - Shimizu, A.
+AU  - Minakuchi, S.
+AU  - Fujishima, I.
+DA  - Oct 15
+DO  - 10.2186/jpr.JPR_D_20_00128
+DP  - NLM
+ET  - 20210222
+IS  - 4
+KW  - *Cranial Nerve Diseases
+*Deglutition Disorders/etiology
+*Dental Implants
+Esophageal Sphincter, Upper
+Humans
+Manometry
+Dysphagia
+Flexible lift
+High-resolution manometry
+Lower cranial nerve palsy
+Palatal lift prosthesis
+L1  - internal-pdf://1760281936/Nomoto-2021-Evaluation of a palatal lift prost.pdf
+LA  - eng
+N1  - 2212-4632
+Nomoto, Akiko
+Ohno, Tomohisa
+Kunieda, Kenjiro
+Kanazawa, Hideaki
+Shigematsu, Takashi
+Hojo, Kyoko
+Shimizu, Akio
+Minakuchi, Shunsuke
+Fujishima, Ichiro
+Case Reports
+Journal Article
+Japan
+2021/02/23
+J Prosthodont Res. 2021 Oct 15;65(4):573-576. doi: 10.2186/jpr.JPR_D_20_00128. Epub 2021 Feb 22.
+PY  - 2021
+SN  - 1883-1958
+SP  - 573-576
+ST  - Evaluation of a palatal lift prosthesis with a flexible lift in a lower cranial nerve palsy patient with dysphagia using high-resolution manometry: A case report
+T2  - J Prosthodont Res
+TI  - Evaluation of a palatal lift prosthesis with a flexible lift in a lower cranial nerve palsy patient with dysphagia using high-resolution manometry: A case report
+VL  - 65
+ID  - 1566
+ER  - 
+
+TY  - JOUR
+AB  - Soft palate tumors pose the challenge during reconstructive and rehabilitating procedures. Surgical resection of these tumors leads to velopharyngeal insufficiency (VPI). The primary effects of VPI are hypernasality and air-flow escape, while the secondary effects are abnormalities in speech articulation. Surgical revision along with speech therapy is a common approach to the treatment of VPI. Prosthetic management by means of speech aid prosthesis helps to reduce resonance, nasal emission and consonants errors. This clinical report describes the different stages of rehabilitation of velopharyngeal insufficiency defect following resection of malignant melanoma of left posterior alveolar ridge and soft palate. The speech aid prosthesis helped to rehabilitate the velopharyngeal insufficiency defect and aided in the diagnosis of extent of speech function improvement by perceptual and objective methods.
+AD  - [Wadud, Asikul] Dhaka Univ, Update Dent Coll & Hosp, Dept Prosthodont, Dhaka 1711, Bangladesh. [Tanveer, Waqas] Vrije Univ Amsterdam Med Ctr, Dept Oral & Maxillofacial Surg, NL-1007 MB Amsterdam, Netherlands. [Chotprasert, Natdhanai; Srithavaj, Theerathavaj] Mahidol Univ, Fac Dent, Dept Prosthodont, Maxillofacial Prosthet Unit, Bangkok 10400, Thailand.
+Tanveer, W (corresponding author), Vrije Univ Amsterdam Med Ctr, Dept Oral & Maxillofacial Surg, NL-1007 MB Amsterdam, Netherlands.
+waqas_tanveer30@hotmail.com
+AN  - WOS:000677406600009
+AU  - Wadud, A.
+AU  - Tanveer, W.
+AU  - Chotprasert, N.
+AU  - Srithavaj, T.
+DA  - Jun
+DO  - 10.21315/aos2021.16.1.9
+IS  - 1
+J2  - Arch. Orofac. Sci.
+KW  - Hypernasality
+nasalance score
+nasometer
+speech aid prosthesis
+velopharyngeal insufficiency
+resonance
+surgery
+size
+Dentistry, Oral Surgery & Medicine
+L1  - internal-pdf://2534830139/Wadud-2021-Role of Speech Aid Prosthesis as Di.pdf
+LA  - English
+M3  - Article
+N1  - ISI Document Delivery No.: TP2DN
+Times Cited: 0
+Cited Reference Count: 14
+Wadud, Asikul Tanveer, Waqas Chotprasert, Natdhanai Srithavaj, Theerathavaj
+Wadud, Asikul/AAZ-6402-2021
+Wadud, Asikul/0000-0002-0144-4987
+0
+1
+Penerbit univ sains malaysia
+Pulau pinang
+2231-7163
+PY  - 2021
+SN  - 1823-8602
+SP  - 87-94
+ST  - Role of Speech Aid Prosthesis as Diagnostic and Therapeutic Aid for Velopharyngeal Insufficiency Defect: A Case Report
+T2  - Archives of Orofacial Science
+TI  - Role of Speech Aid Prosthesis as Diagnostic and Therapeutic Aid for Velopharyngeal Insufficiency Defect: A Case Report
+UR  - <Go to ISI>://WOS:000677406600009
+VL  - 16
+ID  - 2072
+ER  - 
+
